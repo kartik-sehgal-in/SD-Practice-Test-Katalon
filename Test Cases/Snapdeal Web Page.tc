@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Snapdeal Web Page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>16fe198f-dbe9-49ce-a8ce-2c636bb054af</testCaseGuid>
+   <variable>
+      <defaultValue>'9999999999'</defaultValue>
+      <description></description>
+      <id>b59d60fd-a1e8-43b3-af14-70b57f6e9d11</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+</TestCaseEntity>

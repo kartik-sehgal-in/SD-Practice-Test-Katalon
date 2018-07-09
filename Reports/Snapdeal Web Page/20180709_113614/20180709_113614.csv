@@ -1,0 +1,16 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Snapdeal Web Page,Firefox 62.0,,2018-07-09 11:36:16,2018-07-09 11:36:29,12.602s,PASSED
+,,,,,,
+Test Cases/Snapdeal Web Page,Firefox 62.0,,2018-07-09 11:36:16,2018-07-09 11:36:28,11.885s,PASSED
+openBrowser,Firefox 62.0,,2018-07-09 11:36:17,2018-07-09 11:36:23,5.686s,PASSED
+navigateToUrl,Firefox 62.0,,2018-07-09 11:36:23,2018-07-09 11:36:25,2.454s,PASSED
+waitForElementPresent,Firefox 62.0,,2018-07-09 11:36:25,2018-07-09 11:36:25,0.146s,PASSED
+verifyElementPresent,Firefox 62.0,,2018-07-09 11:36:25,2018-07-09 11:36:26,0.403s,PASSED
+click,Firefox 62.0,,2018-07-09 11:36:26,2018-07-09 11:36:26,0.943s,PASSED
+waitForElementPresent,Firefox 62.0,,2018-07-09 11:36:26,2018-07-09 11:36:27,0.066s,PASSED
+verifyElementPresent,Firefox 62.0,,2018-07-09 11:36:27,2018-07-09 11:36:27,0.090s,PASSED
+click,Firefox 62.0,,2018-07-09 11:36:27,2018-07-09 11:36:27,0.379s,PASSED
+setText,Firefox 62.0,,2018-07-09 11:36:27,2018-07-09 11:36:28,0.516s,PASSED
+click,Firefox 62.0,,2018-07-09 11:36:28,2018-07-09 11:36:28,0.384s,PASSED
+click,Firefox 62.0,,2018-07-09 11:36:28,2018-07-09 11:36:28,0.385s,PASSED
+closeBrowser,Firefox 62.0,,2018-07-09 11:36:28,2018-07-09 11:36:28,0.002s,NOT_RUN
