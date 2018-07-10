@@ -1,0 +1,27 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Snapdeal Web Page,Firefox 62.0,,2018-07-09 15:20:06,2018-07-09 15:20:31,24.480s,FAILED
+,,,,,,
+Test Cases/Snapdeal Web Page,Firefox 62.0,,2018-07-09 15:20:07,2018-07-09 15:20:19,12.681s,PASSED
+openBrowser,Firefox 62.0,,2018-07-09 15:20:07,2018-07-09 15:20:13,5.778s,PASSED
+navigateToUrl,Firefox 62.0,,2018-07-09 15:20:13,2018-07-09 15:20:16,2.850s,PASSED
+waitForElementPresent,Firefox 62.0,,2018-07-09 15:20:16,2018-07-09 15:20:16,0.156s,PASSED
+verifyElementPresent,Firefox 62.0,,2018-07-09 15:20:16,2018-07-09 15:20:16,0.603s,PASSED
+click,Firefox 62.0,,2018-07-09 15:20:16,2018-07-09 15:20:18,1.237s,PASSED
+waitForElementPresent,Firefox 62.0,,2018-07-09 15:20:18,2018-07-09 15:20:18,0.040s,PASSED
+verifyElementPresent,Firefox 62.0,,2018-07-09 15:20:18,2018-07-09 15:20:18,0.110s,PASSED
+click,Firefox 62.0,,2018-07-09 15:20:18,2018-07-09 15:20:18,0.429s,PASSED
+setText,Firefox 62.0,,2018-07-09 15:20:18,2018-07-09 15:20:18,0.394s,PASSED
+click,Firefox 62.0,,2018-07-09 15:20:18,2018-07-09 15:20:19,0.426s,PASSED
+click,Firefox 62.0,,2018-07-09 15:20:19,2018-07-09 15:20:19,0.315s,PASSED
+closeBrowser,Firefox 62.0,,2018-07-09 15:20:19,2018-07-09 15:20:19,0.002s,NOT_RUN
+,,,,,,
+Test Cases/Snapdeal Web Page,Firefox 62.0,,2018-07-09 15:20:19,2018-07-09 15:20:30,11.101s,FAILED
+openBrowser,Firefox 62.0,,2018-07-09 15:20:19,2018-07-09 15:20:25,5.480s,PASSED
+navigateToUrl,Firefox 62.0,,2018-07-09 15:20:25,2018-07-09 15:20:28,3.029s,PASSED
+waitForElementPresent,Firefox 62.0,,2018-07-09 15:20:28,2018-07-09 15:20:28,0.086s,PASSED
+verifyElementPresent,Firefox 62.0,,2018-07-09 15:20:28,2018-07-09 15:20:29,0.627s,PASSED
+click,Firefox 62.0,,2018-07-09 15:20:29,2018-07-09 15:20:29,0.747s,PASSED
+waitForElementPresent,Firefox 62.0,,2018-07-09 15:20:29,2018-07-09 15:20:29,0.043s,PASSED
+verifyElementPresent,Firefox 62.0,,2018-07-09 15:20:29,2018-07-09 15:20:29,0.061s,PASSED
+click,Firefox 62.0,,2018-07-09 15:20:29,2018-07-09 15:20:30,0.430s,PASSED
+setText,Firefox 62.0,,2018-07-09 15:20:30,2018-07-09 15:20:30,0.516s,FAILED

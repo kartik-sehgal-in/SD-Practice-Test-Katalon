@@ -27,21 +27,39 @@ WebUI.navigateToUrl('https://www.snapdeal.com/')
 WebUI.waitForElementPresent(findTestObject('SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/div_Sign In'), 
     10)
 
-WebUI.verifyElementPresent(findTestObject('SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/div_Sign In'), 
-    0)
+WebUI.waitForElementVisible(findTestObject('SD_Login_OR/Page_Online Shopping Site in India (1)/div_Sign In'), 10)
+
+WebUI.waitForElementClickable(findTestObject('SD_Login_OR/Page_Online Shopping Site in India (1)/div_Sign In'), 0)
 
 WebUI.click(findTestObject('SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/div_Sign In'))
 
 WebUI.waitForElementPresent(findTestObject('SD_Login_OR/Page_Online Shopping Site in India (1)/span_login'), 10)
 
-WebUI.verifyElementPresent(findTestObject('SD_Login_OR/Page_Online Shopping Site in India (1)/span_login'), 0)
+WebUI.waitForElementClickable(findTestObject('SD_Login_OR/Page_Online Shopping Site in India (1)/span_login'), 0)
+
+WebUI.waitForElementVisible(findTestObject('SD_Login_OR/Page_Online Shopping Site in India (1)/span_login'), 10)
 
 WebUI.click(findTestObject('SD_Login_OR/Page_Online Shopping Site in India (1)/span_login'))
+
+WebUI.waitForElementPresent(findTestObject('SD_Login_OR/Page_Online Shopping Site in India (1)/input_username'), 10)
+
+WebUI.waitForElementClickable(findTestObject('SD_Login_OR/Page_Online Shopping Site in India (1)/input_username'), 10)
+
+WebUI.waitForElementVisible(findTestObject('SD_Login_OR/Page_Online Shopping Site in India (1)/input_username'), 10)
 
 WebUI.setText(findTestObject('SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/Page_Online Shopping Site in India/input_username'), 
     username)
 
 WebUI.click(findTestObject('SD_Login_OR/Page_Online Shopping Site in India/button_continue'))
+
+WebUI.waitForElementPresent(findTestObject('New Folder/Page_Online Shopping Site in India/button_Login Without Password'), 
+    10)
+
+WebUI.waitForElementVisible(findTestObject('New Folder/Page_Online Shopping Site in India/button_Login Without Password'), 
+    10)
+
+WebUI.waitForElementClickable(findTestObject('New Folder/Page_Online Shopping Site in India/button_Login Without Password'), 
+    10)
 
 WebUI.click(findTestObject('New Folder/Page_Online Shopping Site in India/button_Login Without Password'), FailureHandling.STOP_ON_FAILURE)
 

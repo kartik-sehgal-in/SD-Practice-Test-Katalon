@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="SD Banner" time="100" tests="1" failures="0" errors="0">
+   <testsuite name="SD Banner" tests="1" failures="0" errors="0" time="100" timestamp="2018-07-10 12:07:12" hostname="L-15S7152$ - L-15S7152.jasperindia.local" id="Test Suites/SD Banner">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\kartik.sehgal.in\\Katalon Studio\\SD\\Reports\\SD Banner\\20180710_120709"/>
+         <property name="logFiles" value="C:\\Users\\kartik.sehgal.in\\Katalon Studio\\SD\\Reports\\SD Banner\\20180710_120709\\execution0.log"/>
+         <property name="attachments" value="C:\\Users\\kartik.sehgal.in\\Katalon Studio\\SD\\Reports\\SD Banner\\20180710_120709\\Reports/Screenshot/Screenshot.png"/>
+         <property name="hostName" value="L-15S7152$ - L-15S7152.jasperindia.local"/>
+         <property name="os" value="Windows 7 64bit"/>
+         <property name="katalonVersion" value="5.4.2.1"/>
+         <property name="browser" value="Chrome 67.0.3396.99"/>
+         <property name="hostAddress" value="10.20.86.21"/>
+         <property name="sessionId" value="509392bbc6cb49d150aeb71da908d562"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 7"/>
+      </properties>
+      <testcase name="Test Cases/SD Banner" classname="Test Cases/SD Banner" status="PASSED">
+         <system-out><![CDATA[2018-07-10 12:07:12 - [TEST_CASE][PASSED] - Test Cases/SD Banner: Test Cases/SD Banner
+
+2018-07-10 12:07:12 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-07-10 12:07:17 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-07-10 12:07:17 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://www.snapdeal.com/' successfully
+
+2018-07-10 12:07:22 - [MESSAGE][PASSED] - Navigate to 'https://www.snapdeal.com/' successfully
+
+2018-07-10 12:07:22 - [TEST_STEP][PASSED] - waitForPageLoad: Wait for page load successfully
+
+2018-07-10 12:07:22 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-07-10 12:07:22 - [TEST_STEP][PASSED] - takeScreenshot: Taking screenshot successfully
+
+2018-07-10 12:07:23 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\kartik.sehgal.in\\Katalon Studio\\SD\\Reports\\SD Banner\\20180710_120709\\Reports/Screenshot/Screenshot.png]]
+
+2018-07-10 12:07:23 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/div category elements/Page_Online Shopping Site in India/div_Electronics Store' is clicked on
+
+2018-07-10 12:07:23 - [MESSAGE][PASSED] - Object: 'Object Repository/div category elements/Page_Online Shopping Site in India/div_Electronics Store' is clicked on
+
+2018-07-10 12:07:23 - [TEST_STEP][PASSED] - waitForElementPresent: Object 'Object Repository/SD Banner/Page_Online Shopping Site in India/div_white-overlay' is present
+
+2018-07-10 12:07:23 - [MESSAGE][PASSED] - Object 'Object Repository/SD Banner/Page_Online Shopping Site in India/div_white-overlay' is present
+
+2018-07-10 12:07:23 - [TEST_STEP][PASSED] - waitForElementClickable: Object 'Object Repository/SD Banner/Page_Online Shopping Site in India/div_white-overlay' is clickable
+
+2018-07-10 12:07:23 - [MESSAGE][PASSED] - Object 'Object Repository/SD Banner/Page_Online Shopping Site in India/div_white-overlay' is clickable
+
+2018-07-10 12:07:23 - [TEST_STEP][PASSED] - waitForElementVisible: Object 'Object Repository/SD Banner/Page_Online Shopping Site in India/div_white-overlay' is not visible after 10 second(s)
+
+2018-07-10 12:07:33 - [MESSAGE][WARNING] - Object 'Object Repository/SD Banner/Page_Online Shopping Site in India/div_white-overlay' is not visible after 10 second(s)
+
+2018-07-10 12:07:33 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/SD Banner/Page_Online Shopping Site in India/div_white-overlay' is clicked on
+
+2018-07-10 12:07:37 - [MESSAGE][PASSED] - Object: 'Object Repository/SD Banner/Page_Online Shopping Site in India/div_white-overlay' is clicked on
+
+2018-07-10 12:07:37 - [TEST_STEP][PASSED] - back: Navigate back successfully
+
+2018-07-10 12:07:39 - [MESSAGE][PASSED] - Navigate back successfully
+
+2018-07-10 12:07:39 - [TEST_STEP][PASSED] - waitForPageLoad: Wait for page load successfully
+
+2018-07-10 12:07:39 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-07-10 12:07:39 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/div category elements/Page_Online Shopping Site in India/div_Womens Fashion' is clicked on
+
+2018-07-10 12:07:40 - [MESSAGE][PASSED] - Object: 'Object Repository/div category elements/Page_Online Shopping Site in India/div_Womens Fashion' is clicked on
+
+2018-07-10 12:07:40 - [TEST_STEP][PASSED] - waitForElementPresent: Object 'Object Repository/SD Banner/Page_Online Shopping Site in India/div_white-overlay' is present
+
+2018-07-10 12:07:40 - [MESSAGE][PASSED] - Object 'Object Repository/SD Banner/Page_Online Shopping Site in India/div_white-overlay' is present
+
+2018-07-10 12:07:40 - [TEST_STEP][PASSED] - waitForElementClickable: Object 'Object Repository/SD Banner/Page_Online Shopping Site in India/div_white-overlay' is clickable
+
+2018-07-10 12:07:40 - [MESSAGE][PASSED] - Object 'Object Repository/SD Banner/Page_Online Shopping Site in India/div_white-overlay' is clickable
+
+2018-07-10 12:07:40 - [TEST_STEP][PASSED] - waitForElementVisible: Object 'Object Repository/SD Banner/Page_Online Shopping Site in India/div_white-overlay' is not visible after 10 second(s)
+
+2018-07-10 12:07:50 - [MESSAGE][WARNING] - Object 'Object Repository/SD Banner/Page_Online Shopping Site in India/div_white-overlay' is not visible after 10 second(s)
+
+2018-07-10 12:07:50 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/SD Banner/Page_Online Shopping Site in India/div_white-overlay' is clicked on
+
+2018-07-10 12:07:53 - [MESSAGE][PASSED] - Object: 'Object Repository/SD Banner/Page_Online Shopping Site in India/div_white-overlay' is clicked on
+
+2018-07-10 12:07:53 - [TEST_STEP][PASSED] - back: Navigate back successfully
+
+2018-07-10 12:07:56 - [MESSAGE][PASSED] - Navigate back successfully
+
+2018-07-10 12:07:56 - [TEST_STEP][PASSED] - waitForPageLoad: Wait for page load successfully
+
+2018-07-10 12:07:56 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-07-10 12:07:56 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/div category elements/Page_Online Shopping Site in India/div_Grooming Essentials' is clicked on
+
+2018-07-10 12:07:56 - [MESSAGE][PASSED] - Object: 'Object Repository/div category elements/Page_Online Shopping Site in India/div_Grooming Essentials' is clicked on
+
+2018-07-10 12:07:56 - [TEST_STEP][PASSED] - waitForElementPresent: Object 'Object Repository/SD Banner/Page_Online Shopping Site in India/div_white-overlay' is present
+
+2018-07-10 12:07:57 - [MESSAGE][PASSED] - Object 'Object Repository/SD Banner/Page_Online Shopping Site in India/div_white-overlay' is present
+
+2018-07-10 12:07:57 - [TEST_STEP][PASSED] - waitForElementClickable: Object 'Object Repository/SD Banner/Page_Online Shopping Site in India/div_white-overlay' is clickable
+
+2018-07-10 12:07:57 - [MESSAGE][PASSED] - Object 'Object Repository/SD Banner/Page_Online Shopping Site in India/div_white-overlay' is clickable
+
+2018-07-10 12:07:57 - [TEST_STEP][PASSED] - waitForElementVisible: Object 'Object Repository/SD Banner/Page_Online Shopping Site in India/div_white-overlay' is not visible after 10 second(s)
+
+2018-07-10 12:08:07 - [MESSAGE][WARNING] - Object 'Object Repository/SD Banner/Page_Online Shopping Site in India/div_white-overlay' is not visible after 10 second(s)
+
+2018-07-10 12:08:07 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/SD Banner/Page_Online Shopping Site in India/div_white-overlay' is clicked on
+
+2018-07-10 12:08:15 - [MESSAGE][PASSED] - Object: 'Object Repository/SD Banner/Page_Online Shopping Site in India/div_white-overlay' is clicked on
+
+2018-07-10 12:08:15 - [TEST_STEP][PASSED] - back: Navigate back successfully
+
+2018-07-10 12:08:17 - [MESSAGE][PASSED] - Navigate back successfully
+
+2018-07-10 12:08:17 - [TEST_STEP][PASSED] - waitForPageLoad: Wait for page load successfully
+
+2018-07-10 12:08:17 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-07-10 12:08:17 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/div category elements/Page_Online Shopping Site in India/div_Pet Store' is clicked on
+
+2018-07-10 12:08:17 - [MESSAGE][PASSED] - Object: 'Object Repository/div category elements/Page_Online Shopping Site in India/div_Pet Store' is clicked on
+
+2018-07-10 12:08:17 - [TEST_STEP][PASSED] - waitForElementPresent: Object 'Object Repository/SD Banner/Page_Online Shopping Site in India/div_white-overlay' is present
+
+2018-07-10 12:08:17 - [MESSAGE][PASSED] - Object 'Object Repository/SD Banner/Page_Online Shopping Site in India/div_white-overlay' is present
+
+2018-07-10 12:08:17 - [TEST_STEP][PASSED] - waitForElementClickable: Object 'Object Repository/SD Banner/Page_Online Shopping Site in India/div_white-overlay' is clickable
+
+2018-07-10 12:08:17 - [MESSAGE][PASSED] - Object 'Object Repository/SD Banner/Page_Online Shopping Site in India/div_white-overlay' is clickable
+
+2018-07-10 12:08:17 - [TEST_STEP][PASSED] - waitForElementVisible: Object 'Object Repository/SD Banner/Page_Online Shopping Site in India/div_white-overlay' is not visible after 10 second(s)
+
+2018-07-10 12:08:28 - [MESSAGE][WARNING] - Object 'Object Repository/SD Banner/Page_Online Shopping Site in India/div_white-overlay' is not visible after 10 second(s)
+
+2018-07-10 12:08:28 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/SD Banner/Page_Online Shopping Site in India/div_white-overlay' is clicked on
+
+2018-07-10 12:08:30 - [MESSAGE][PASSED] - Object: 'Object Repository/SD Banner/Page_Online Shopping Site in India/div_white-overlay' is clicked on
+
+2018-07-10 12:08:30 - [TEST_STEP][PASSED] - back: Navigate back successfully
+
+2018-07-10 12:08:32 - [MESSAGE][PASSED] - Navigate back successfully
+
+2018-07-10 12:08:32 - [TEST_STEP][PASSED] - waitForPageLoad: Wait for page load successfully
+
+2018-07-10 12:08:32 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-07-10 12:08:32 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/SD Banner/Page_Online Shopping Site in India/div_ICICI Lombard' is clicked on
+
+2018-07-10 12:08:32 - [MESSAGE][PASSED] - Object: 'Object Repository/SD Banner/Page_Online Shopping Site in India/div_ICICI Lombard' is clicked on
+
+2018-07-10 12:08:33 - [TEST_STEP][PASSED] - waitForElementPresent: Object 'Object Repository/SD Banner/Page_Online Shopping Site in India/div_white-overlay' is present
+
+2018-07-10 12:08:33 - [MESSAGE][PASSED] - Object 'Object Repository/SD Banner/Page_Online Shopping Site in India/div_white-overlay' is present
+
+2018-07-10 12:08:33 - [TEST_STEP][PASSED] - waitForElementClickable: Object 'Object Repository/SD Banner/Page_Online Shopping Site in India/div_white-overlay' is clickable
+
+2018-07-10 12:08:33 - [MESSAGE][PASSED] - Object 'Object Repository/SD Banner/Page_Online Shopping Site in India/div_white-overlay' is clickable
+
+2018-07-10 12:08:33 - [TEST_STEP][PASSED] - waitForElementVisible: Object 'Object Repository/SD Banner/Page_Online Shopping Site in India/div_white-overlay' is not visible after 10 second(s)
+
+2018-07-10 12:08:43 - [MESSAGE][WARNING] - Object 'Object Repository/SD Banner/Page_Online Shopping Site in India/div_white-overlay' is not visible after 10 second(s)
+
+2018-07-10 12:08:43 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/SD Banner/Page_Online Shopping Site in India/div_white-overlay' is clicked on
+
+2018-07-10 12:08:51 - [MESSAGE][PASSED] - Object: 'Object Repository/SD Banner/Page_Online Shopping Site in India/div_white-overlay' is clicked on
+
+2018-07-10 12:08:51 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-07-10 12:08:52 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-07-10 12:07:12 - [TEST_SUITE][PASSED] - SD Banner: Test Cases/SD Banner]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

@@ -24,59 +24,79 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://www.snapdeal.com/')
 
-WebUI.click(findTestObject('SD Banner/Page_Online Shopping Site in India/div_Dhamaka Deals'))
-
-WebUI.click(findTestObject('SD Banner/Page_Online Shopping Site in India/div_white-overlay'))
-
-WebUI.back()
-
 WebUI.waitForPageLoad(10)
 
-WebUI.click(findTestObject('SD Banner/Page_Online Shopping Site in India/div_Intex'))
+WebUI.takeScreenshot('Reports/Screenshot/Screenshot.png')
+
+WebUI.click(findTestObject('div category elements/Page_Online Shopping Site in India/div_Electronics Store'))
+
+WebUI.waitForElementPresent(findTestObject('SD Banner/Page_Online Shopping Site in India/div_white-overlay'), 10)
+
+WebUI.waitForElementClickable(findTestObject('SD Banner/Page_Online Shopping Site in India/div_white-overlay'), 10)
+
+WebUI.waitForElementVisible(findTestObject('SD Banner/Page_Online Shopping Site in India/div_white-overlay'), 10)
 
 WebUI.click(findTestObject('SD Banner/Page_Online Shopping Site in India/div_white-overlay'))
 
-WebUI.back()
-
-WebUI.waitForPageLoad(10)
-
-WebUI.click(findTestObject('SD Banner/Page_Online Shopping Site in India/div_FIFA'))
-
-WebUI.click(findTestObject('SD Banner/Page_Online Shopping Site in India/div_white-overlay'))
-
-WebUI.back()
-
-WebUI.waitForPageLoad(10)
-
-WebUI.click(findTestObject('SD Banner/Page_Online Shopping Site in India/div_Womens Fashion'))
-
-WebUI.click(findTestObject('SD Banner/Page_Online Shopping Site in India/div_white-overlay'))
-
-WebUI.back()
-
-WebUI.waitForPageLoad(10)
-
-WebUI.click(findTestObject('SD Banner/Page_Online Shopping Site in India/div_ICICI Lombard'))
-
-WebUI.click(findTestObject('SD Banner/Page_Online Shopping Site in India/div_white-overlay'))
-
-WebUI.back()
-
-WebUI.waitForPageLoad(10)
-
-WebUI.click(findTestObject('SD Banner/Page_Online Shopping Site in India/div_Dhamaka Deals'))
-
-WebUI.click(findTestObject('SD Banner/Page_Online Shopping Site in India/div_white-overlay'))
-
-WebUI.back()
-
-WebUI.waitForPageLoad(10)
-
-WebUI.click(findTestObject('SD Banner/Page_Online Shopping Site in India/div_Intex'))
-
-WebUI.click(findTestObject('SD Banner/Page_Online Shopping Site in India/div_white-overlay'))
+not_run: WebUI.back()
 
 not_run: WebUI.waitForPageLoad(10)
+
+not_run: WebUI.click(findTestObject('div category elements/Page_Online Shopping Site in India/div_Womens Fashion'))
+
+not_run: WebUI.waitForElementPresent(findTestObject('SD Banner/Page_Online Shopping Site in India/div_white-overlay'), 10)
+
+not_run: WebUI.waitForElementClickable(findTestObject('SD Banner/Page_Online Shopping Site in India/div_white-overlay'), 
+    10)
+
+not_run: WebUI.waitForElementVisible(findTestObject('SD Banner/Page_Online Shopping Site in India/div_white-overlay'), 10)
+
+not_run: WebUI.click(findTestObject('SD Banner/Page_Online Shopping Site in India/div_white-overlay'))
+
+not_run: WebUI.back()
+
+not_run: WebUI.waitForPageLoad(10)
+
+not_run: WebUI.click(findTestObject('div category elements/Page_Online Shopping Site in India/div_Grooming Essentials'))
+
+not_run: WebUI.waitForElementPresent(findTestObject('SD Banner/Page_Online Shopping Site in India/div_white-overlay'), 10)
+
+not_run: WebUI.waitForElementClickable(findTestObject('SD Banner/Page_Online Shopping Site in India/div_white-overlay'), 
+    10)
+
+not_run: WebUI.waitForElementVisible(findTestObject('SD Banner/Page_Online Shopping Site in India/div_white-overlay'), 10)
+
+not_run: WebUI.click(findTestObject('SD Banner/Page_Online Shopping Site in India/div_white-overlay'))
+
+not_run: WebUI.back()
+
+not_run: WebUI.waitForPageLoad(10)
+
+not_run: WebUI.click(findTestObject('div category elements/Page_Online Shopping Site in India/div_Pet Store'))
+
+not_run: WebUI.waitForElementPresent(findTestObject('SD Banner/Page_Online Shopping Site in India/div_white-overlay'), 10)
+
+not_run: WebUI.waitForElementClickable(findTestObject('SD Banner/Page_Online Shopping Site in India/div_white-overlay'), 
+    10)
+
+not_run: WebUI.waitForElementVisible(findTestObject('SD Banner/Page_Online Shopping Site in India/div_white-overlay'), 10)
+
+not_run: WebUI.click(findTestObject('SD Banner/Page_Online Shopping Site in India/div_white-overlay'))
+
+not_run: WebUI.back()
+
+not_run: WebUI.waitForPageLoad(10)
+
+not_run: WebUI.click(findTestObject('SD Banner/Page_Online Shopping Site in India/div_ICICI Lombard'))
+
+not_run: WebUI.waitForElementPresent(findTestObject('SD Banner/Page_Online Shopping Site in India/div_white-overlay'), 10)
+
+not_run: WebUI.waitForElementClickable(findTestObject('SD Banner/Page_Online Shopping Site in India/div_white-overlay'), 
+    10)
+
+not_run: WebUI.waitForElementVisible(findTestObject('SD Banner/Page_Online Shopping Site in India/div_white-overlay'), 10)
+
+not_run: WebUI.click(findTestObject('SD Banner/Page_Online Shopping Site in India/div_white-overlay'))
 
 WebUI.closeBrowser()
 

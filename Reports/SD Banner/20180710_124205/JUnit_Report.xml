@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="SD Banner" time="31" tests="1" failures="0" errors="0">
+   <testsuite name="SD Banner" tests="1" failures="0" errors="0" time="31" timestamp="2018-07-10 12:42:08" hostname="L-15S7152$ - L-15S7152.jasperindia.local" id="Test Suites/SD Banner">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\kartik.sehgal.in\\Katalon Studio\\SD\\Reports\\SD Banner\\20180710_124205"/>
+         <property name="logFiles" value="C:\\Users\\kartik.sehgal.in\\Katalon Studio\\SD\\Reports\\SD Banner\\20180710_124205\\execution0.log"/>
+         <property name="attachments" value="C:\\Users\\kartik.sehgal.in\\Katalon Studio\\SD\\Reports\\SD Banner\\20180710_124205\\Reports/Screenshot/Screenshot.png"/>
+         <property name="hostName" value="L-15S7152$ - L-15S7152.jasperindia.local"/>
+         <property name="os" value="Windows 7 64bit"/>
+         <property name="katalonVersion" value="5.4.2.1"/>
+         <property name="browser" value="Chrome 67.0.3396.99"/>
+         <property name="hostAddress" value="10.20.86.21"/>
+         <property name="sessionId" value="c5810b7bd65caf3d22ac2be01318147a"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 7"/>
+      </properties>
+      <testcase name="Test Cases/SD Banner" classname="Test Cases/SD Banner" status="PASSED">
+         <system-out><![CDATA[2018-07-10 12:42:10 - [TEST_CASE][PASSED] - Test Cases/SD Banner: Test Cases/SD Banner
+
+2018-07-10 12:42:10 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-07-10 12:42:16 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-07-10 12:42:16 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://www.snapdeal.com/' successfully
+
+2018-07-10 12:42:23 - [MESSAGE][PASSED] - Navigate to 'https://www.snapdeal.com/' successfully
+
+2018-07-10 12:42:23 - [TEST_STEP][PASSED] - waitForPageLoad: Wait for page load successfully
+
+2018-07-10 12:42:23 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-07-10 12:42:23 - [TEST_STEP][PASSED] - takeScreenshot: Taking screenshot successfully
+
+2018-07-10 12:42:24 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\kartik.sehgal.in\\Katalon Studio\\SD\\Reports\\SD Banner\\20180710_124205\\Reports/Screenshot/Screenshot.png]]
+
+2018-07-10 12:42:24 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/div category elements/Page_Online Shopping Site in India/div_Electronics Store' is clicked on
+
+2018-07-10 12:42:25 - [MESSAGE][PASSED] - Object: 'Object Repository/div category elements/Page_Online Shopping Site in India/div_Electronics Store' is clicked on
+
+2018-07-10 12:42:25 - [TEST_STEP][PASSED] - waitForElementPresent: Object 'Object Repository/SD Banner/Page_Online Shopping Site in India/div_white-overlay' is present
+
+2018-07-10 12:42:25 - [MESSAGE][PASSED] - Object 'Object Repository/SD Banner/Page_Online Shopping Site in India/div_white-overlay' is present
+
+2018-07-10 12:42:25 - [TEST_STEP][PASSED] - waitForElementClickable: Object 'Object Repository/SD Banner/Page_Online Shopping Site in India/div_white-overlay' is clickable
+
+2018-07-10 12:42:25 - [MESSAGE][PASSED] - Object 'Object Repository/SD Banner/Page_Online Shopping Site in India/div_white-overlay' is clickable
+
+2018-07-10 12:42:25 - [TEST_STEP][PASSED] - waitForElementVisible: Object 'Object Repository/SD Banner/Page_Online Shopping Site in India/div_white-overlay' is not visible after 10 second(s)
+
+2018-07-10 12:42:35 - [MESSAGE][WARNING] - Object 'Object Repository/SD Banner/Page_Online Shopping Site in India/div_white-overlay' is not visible after 10 second(s)
+
+2018-07-10 12:42:35 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/SD Banner/Page_Online Shopping Site in India/div_white-overlay' is clicked on
+
+2018-07-10 12:42:39 - [MESSAGE][PASSED] - Object: 'Object Repository/SD Banner/Page_Online Shopping Site in India/div_white-overlay' is clicked on
+
+2018-07-10 12:42:39 - [TEST_STEP][NOT_RUN] - back: NOT_RUN: back
+
+2018-07-10 12:42:39 - [MESSAGE][NOT_RUN] - NOT_RUN: back
+
+2018-07-10 12:42:39 - [TEST_STEP][NOT_RUN] - waitForPageLoad: NOT_RUN: waitForPageLoad
+
+2018-07-10 12:42:39 - [MESSAGE][NOT_RUN] - NOT_RUN: waitForPageLoad
+
+2018-07-10 12:42:39 - [TEST_STEP][NOT_RUN] - click: NOT_RUN: click
+
+2018-07-10 12:42:39 - [MESSAGE][NOT_RUN] - NOT_RUN: click
+
+2018-07-10 12:42:39 - [TEST_STEP][NOT_RUN] - waitForElementPresent: NOT_RUN: waitForElementPresent
+
+2018-07-10 12:42:39 - [MESSAGE][NOT_RUN] - NOT_RUN: waitForElementPresent
+
+2018-07-10 12:42:39 - [TEST_STEP][NOT_RUN] - waitForElementClickable: NOT_RUN: waitForElementClickable
+
+2018-07-10 12:42:39 - [MESSAGE][NOT_RUN] - NOT_RUN: waitForElementClickable
+
+2018-07-10 12:42:39 - [TEST_STEP][NOT_RUN] - waitForElementVisible: NOT_RUN: waitForElementVisible
+
+2018-07-10 12:42:39 - [MESSAGE][NOT_RUN] - NOT_RUN: waitForElementVisible
+
+2018-07-10 12:42:39 - [TEST_STEP][NOT_RUN] - click: NOT_RUN: click
+
+2018-07-10 12:42:39 - [MESSAGE][NOT_RUN] - NOT_RUN: click
+
+2018-07-10 12:42:39 - [TEST_STEP][NOT_RUN] - back: NOT_RUN: back
+
+2018-07-10 12:42:39 - [MESSAGE][NOT_RUN] - NOT_RUN: back
+
+2018-07-10 12:42:39 - [TEST_STEP][NOT_RUN] - waitForPageLoad: NOT_RUN: waitForPageLoad
+
+2018-07-10 12:42:39 - [MESSAGE][NOT_RUN] - NOT_RUN: waitForPageLoad
+
+2018-07-10 12:42:39 - [TEST_STEP][NOT_RUN] - click: NOT_RUN: click
+
+2018-07-10 12:42:39 - [MESSAGE][NOT_RUN] - NOT_RUN: click
+
+2018-07-10 12:42:39 - [TEST_STEP][NOT_RUN] - waitForElementPresent: NOT_RUN: waitForElementPresent
+
+2018-07-10 12:42:39 - [MESSAGE][NOT_RUN] - NOT_RUN: waitForElementPresent
+
+2018-07-10 12:42:39 - [TEST_STEP][NOT_RUN] - waitForElementClickable: NOT_RUN: waitForElementClickable
+
+2018-07-10 12:42:39 - [MESSAGE][NOT_RUN] - NOT_RUN: waitForElementClickable
+
+2018-07-10 12:42:39 - [TEST_STEP][NOT_RUN] - waitForElementVisible: NOT_RUN: waitForElementVisible
+
+2018-07-10 12:42:39 - [MESSAGE][NOT_RUN] - NOT_RUN: waitForElementVisible
+
+2018-07-10 12:42:39 - [TEST_STEP][NOT_RUN] - click: NOT_RUN: click
+
+2018-07-10 12:42:39 - [MESSAGE][NOT_RUN] - NOT_RUN: click
+
+2018-07-10 12:42:39 - [TEST_STEP][NOT_RUN] - back: NOT_RUN: back
+
+2018-07-10 12:42:39 - [MESSAGE][NOT_RUN] - NOT_RUN: back
+
+2018-07-10 12:42:39 - [TEST_STEP][NOT_RUN] - waitForPageLoad: NOT_RUN: waitForPageLoad
+
+2018-07-10 12:42:39 - [MESSAGE][NOT_RUN] - NOT_RUN: waitForPageLoad
+
+2018-07-10 12:42:39 - [TEST_STEP][NOT_RUN] - click: NOT_RUN: click
+
+2018-07-10 12:42:39 - [MESSAGE][NOT_RUN] - NOT_RUN: click
+
+2018-07-10 12:42:39 - [TEST_STEP][NOT_RUN] - waitForElementPresent: NOT_RUN: waitForElementPresent
+
+2018-07-10 12:42:39 - [MESSAGE][NOT_RUN] - NOT_RUN: waitForElementPresent
+
+2018-07-10 12:42:39 - [TEST_STEP][NOT_RUN] - waitForElementClickable: NOT_RUN: waitForElementClickable
+
+2018-07-10 12:42:39 - [MESSAGE][NOT_RUN] - NOT_RUN: waitForElementClickable
+
+2018-07-10 12:42:39 - [TEST_STEP][NOT_RUN] - waitForElementVisible: NOT_RUN: waitForElementVisible
+
+2018-07-10 12:42:39 - [MESSAGE][NOT_RUN] - NOT_RUN: waitForElementVisible
+
+2018-07-10 12:42:39 - [TEST_STEP][NOT_RUN] - click: NOT_RUN: click
+
+2018-07-10 12:42:39 - [MESSAGE][NOT_RUN] - NOT_RUN: click
+
+2018-07-10 12:42:39 - [TEST_STEP][NOT_RUN] - back: NOT_RUN: back
+
+2018-07-10 12:42:39 - [MESSAGE][NOT_RUN] - NOT_RUN: back
+
+2018-07-10 12:42:39 - [TEST_STEP][NOT_RUN] - waitForPageLoad: NOT_RUN: waitForPageLoad
+
+2018-07-10 12:42:39 - [MESSAGE][NOT_RUN] - NOT_RUN: waitForPageLoad
+
+2018-07-10 12:42:39 - [TEST_STEP][NOT_RUN] - click: NOT_RUN: click
+
+2018-07-10 12:42:39 - [MESSAGE][NOT_RUN] - NOT_RUN: click
+
+2018-07-10 12:42:39 - [TEST_STEP][NOT_RUN] - waitForElementPresent: NOT_RUN: waitForElementPresent
+
+2018-07-10 12:42:39 - [MESSAGE][NOT_RUN] - NOT_RUN: waitForElementPresent
+
+2018-07-10 12:42:39 - [TEST_STEP][NOT_RUN] - waitForElementClickable: NOT_RUN: waitForElementClickable
+
+2018-07-10 12:42:39 - [MESSAGE][NOT_RUN] - NOT_RUN: waitForElementClickable
+
+2018-07-10 12:42:39 - [TEST_STEP][NOT_RUN] - waitForElementVisible: NOT_RUN: waitForElementVisible
+
+2018-07-10 12:42:39 - [MESSAGE][NOT_RUN] - NOT_RUN: waitForElementVisible
+
+2018-07-10 12:42:39 - [TEST_STEP][NOT_RUN] - click: NOT_RUN: click
+
+2018-07-10 12:42:39 - [MESSAGE][NOT_RUN] - NOT_RUN: click
+
+2018-07-10 12:42:39 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-07-10 12:42:40 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-07-10 12:42:08 - [TEST_SUITE][PASSED] - SD Banner: Test Cases/SD Banner]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

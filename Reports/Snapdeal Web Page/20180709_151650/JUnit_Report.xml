@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Snapdeal Web Page" time="18" tests="0" failures="1" errors="0">
+   <testsuite name="Snapdeal Web Page" tests="0" failures="1" errors="0" time="18" timestamp="2018-07-09 15:16:52" hostname="kartik.sehgal.in - L-15S7152.jasperindia.local" id="Test Suites/Snapdeal Web Page">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\kartik.sehgal.in\\Katalon Studio\\SD\\Reports\\Snapdeal Web Page\\20180709_151650"/>
+         <property name="logFiles" value="C:\\Users\\kartik.sehgal.in\\Katalon Studio\\SD\\Reports\\Snapdeal Web Page\\20180709_151650\\execution0.log"/>
+         <property name="attachments" value="C:\\Users\\kartik.sehgal.in\\Katalon Studio\\SD\\Reports\\Snapdeal Web Page\\20180709_151650\\1531129629799.png"/>
+         <property name="hostName" value="kartik.sehgal.in - L-15S7152.jasperindia.local"/>
+         <property name="os" value="Windows 7 64bit"/>
+         <property name="katalonVersion" value="5.4.2.1"/>
+         <property name="browser" value="Firefox 62.0"/>
+         <property name="hostAddress" value="10.20.86.19"/>
+         <property name="sessionId" value="f9a163e5-a2da-45db-b0ef-61b5953a1a5e"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 7"/>
+      </properties>
+      <testcase name="Test Cases/Snapdeal Web Page" classname="Test Cases/Snapdeal Web Page" status="FAILED">
+         <failure type="FAILED" message="Unable to set text 'null' of object 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/Page_Online Shopping Site in India/input_username' (Root cause: java.lang.IllegalArgumentException: Text is null)"/>
+         <system-out><![CDATA[2018-07-09 15:16:52 - [TEST_CASE][FAILED] - Test Cases/Snapdeal Web Page: Test Cases/Snapdeal Web Page FAILED because (of) Unable to set text 'null' of object 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/Page_Online Shopping Site in India/input_username' (Root cause: java.lang.IllegalArgumentException: Text is null)
+
+2018-07-09 15:16:53 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-07-09 15:17:05 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-07-09 15:17:05 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://www.snapdeal.com/' successfully
+
+2018-07-09 15:17:07 - [MESSAGE][PASSED] - Navigate to 'https://www.snapdeal.com/' successfully
+
+2018-07-09 15:17:07 - [TEST_STEP][PASSED] - waitForElementPresent: Object 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/div_Sign In' is present
+
+2018-07-09 15:17:08 - [MESSAGE][PASSED] - Object 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/div_Sign In' is present
+
+2018-07-09 15:17:08 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/div_Sign In' is present
+
+2018-07-09 15:17:08 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-07-09 15:17:08 - [MESSAGE][PASSED] - Object 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/div_Sign In' is present
+
+2018-07-09 15:17:08 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/div_Sign In' is clicked on
+
+2018-07-09 15:17:09 - [MESSAGE][PASSED] - Object: 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/div_Sign In' is clicked on
+
+2018-07-09 15:17:09 - [TEST_STEP][PASSED] - waitForElementPresent: Object 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India (1)/span_login' is present
+
+2018-07-09 15:17:09 - [MESSAGE][PASSED] - Object 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India (1)/span_login' is present
+
+2018-07-09 15:17:09 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India (1)/span_login' is present
+
+2018-07-09 15:17:09 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-07-09 15:17:09 - [MESSAGE][PASSED] - Object 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India (1)/span_login' is present
+
+2018-07-09 15:17:09 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India (1)/span_login' is clicked on
+
+2018-07-09 15:17:09 - [MESSAGE][PASSED] - Object: 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India (1)/span_login' is clicked on
+
+2018-07-09 15:17:09 - [TEST_STEP][FAILED] - setText: Unable to set text 'null' of object 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/Page_Online Shopping Site in India/input_username' (Root cause: java.lang.IllegalArgumentException: Text is null)
+
+2018-07-09 15:17:10 - [MESSAGE][FAILED] - Unable to set text 'null' of object 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/Page_Online Shopping Site in India/input_username' (Root cause: java.lang.IllegalArgumentException: Text is null)
+[[ATTACHMENT|C:\\Users\\kartik.sehgal.in\\Katalon Studio\\SD\\Reports\\Snapdeal Web Page\\20180709_151650\\1531129629799.png]]]]></system-out>
+         <system-err><![CDATA[2018-07-09 15:16:52 - [TEST_CASE][FAILED] - Test Cases/Snapdeal Web Page: Test Cases/Snapdeal Web Page FAILED because (of) Unable to set text 'null' of object 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/Page_Online Shopping Site in India/input_username' (Root cause: java.lang.IllegalArgumentException: Text is null)]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-07-09 15:16:52 - [TEST_SUITE][FAILED] - Snapdeal Web Page: Test Cases/Snapdeal Web Page FAILED because (of) Unable to set text 'null' of object 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/Page_Online Shopping Site in India/input_username' (Root cause: java.lang.IllegalArgumentException: Text is null)]]></system-out>
+      <system-err><![CDATA[2018-07-09 15:16:52 - [TEST_SUITE][FAILED] - Snapdeal Web Page: Test Cases/Snapdeal Web Page FAILED because (of) Unable to set text 'null' of object 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/Page_Online Shopping Site in India/input_username' (Root cause: java.lang.IllegalArgumentException: Text is null)]]></system-err>
+   </testsuite>
+</testsuites>

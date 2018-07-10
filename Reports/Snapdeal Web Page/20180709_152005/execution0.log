@@ -1,0 +1,2794 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-07-09T15:20:06</date>
+  <millis>1531129806723</millis>
+  <sequence>0</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startSuite</method>
+  <thread>1</thread>
+  <message>Start Test Suite : Test Suites/Snapdeal Web Page</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="name">Snapdeal Web Page</property>
+  <property name="description"></property>
+  <property name="id">Test Suites/Snapdeal Web Page</property>
+</record>
+<record>
+  <date>2018-07-09T15:20:06</date>
+  <millis>1531129806740</millis>
+  <sequence>1</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Logging run data &amp;apos;hostName&amp;apos; with value &amp;apos;kartik.sehgal.in - L-15S7152.jasperindia.local&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="hostName">kartik.sehgal.in - L-15S7152.jasperindia.local</property>
+</record>
+<record>
+  <date>2018-07-09T15:20:06</date>
+  <millis>1531129806741</millis>
+  <sequence>2</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Logging run data &amp;apos;os&amp;apos; with value &amp;apos;Windows 7 64bit&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="os">Windows 7 64bit</property>
+</record>
+<record>
+  <date>2018-07-09T15:20:06</date>
+  <millis>1531129806741</millis>
+  <sequence>3</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Logging run data &amp;apos;hostAddress&amp;apos; with value &amp;apos;10.20.86.19&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="hostAddress">10.20.86.19</property>
+</record>
+<record>
+  <date>2018-07-09T15:20:06</date>
+  <millis>1531129806743</millis>
+  <sequence>4</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Logging run data &amp;apos;katalonVersion&amp;apos; with value &amp;apos;5.4.2.1&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="katalonVersion">5.4.2.1</property>
+</record>
+<record>
+  <date>2018-07-09T15:20:07</date>
+  <millis>1531129807058</millis>
+  <sequence>5</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/Snapdeal Web Page</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="name">Test Cases/Snapdeal Web Page</property>
+  <property name="description"></property>
+  <property name="id">Test Cases/Snapdeal Web Page</property>
+  <property name="source">C:\\Users\\kartik.sehgal.in\\Katalon Studio\\SD\\Test Cases\\Snapdeal Web Page.tc</property>
+  <property name="isOptional">false</property>
+</record>
+<record>
+  <date>2018-07-09T15:20:07</date>
+  <millis>1531129807094</millis>
+  <sequence>6</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Evaluating variables for test case</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:07</date>
+  <millis>1531129807096</millis>
+  <sequence>7</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Variable &amp;apos;username&amp;apos; is set to 9654421103</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:07</date>
+  <millis>1531129807393</millis>
+  <sequence>8</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : openBrowser</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">23</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2018-07-09T15:20:07</date>
+  <millis>1531129807853</millis>
+  <sequence>9</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Opening browser</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:07</date>
+  <millis>1531129807857</millis>
+  <sequence>10</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Starting &amp;apos;Firefox&amp;apos; driver</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:07</date>
+  <millis>1531129807895</millis>
+  <sequence>11</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Action delay is set to 0 seconds</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:13</date>
+  <millis>1531129813138</millis>
+  <sequence>13</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Logging run data &amp;apos;sessionId&amp;apos; with value &amp;apos;ab30b587-a978-4e7d-aa63-5ba07b20fc4c&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="sessionId">ab30b587-a978-4e7d-aa63-5ba07b20fc4c</property>
+</record>
+<record>
+  <date>2018-07-09T15:20:13</date>
+  <millis>1531129813163</millis>
+  <sequence>14</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Logging run data &amp;apos;browser&amp;apos; with value &amp;apos;Firefox 62.0&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="browser">Firefox 62.0</property>
+</record>
+<record>
+  <date>2018-07-09T15:20:13</date>
+  <millis>1531129813164</millis>
+  <sequence>15</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Logging run data &amp;apos;platform&amp;apos; with value &amp;apos;Windows 7&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="platform">Windows 7</property>
+</record>
+<record>
+  <date>2018-07-09T15:20:13</date>
+  <millis>1531129813170</millis>
+  <sequence>16</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Logging run data &amp;apos;seleniumVersion&amp;apos; with value &amp;apos;3.7.1&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="seleniumVersion">3.7.1</property>
+</record>
+<record>
+  <date>2018-07-09T15:20:13</date>
+  <millis>1531129813170</millis>
+  <sequence>17</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Logging run data &amp;apos;proxyInformation&amp;apos; with value &amp;apos;ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="proxyInformation">ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}</property>
+</record>
+<record>
+  <date>2018-07-09T15:20:13</date>
+  <millis>1531129813171</millis>
+  <sequence>18</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Browser is opened with url: &amp;apos;&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:13</date>
+  <millis>1531129813171</millis>
+  <sequence>19</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : openBrowser</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:13</date>
+  <millis>1531129813171</millis>
+  <sequence>20</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : navigateToUrl</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">25</property>
+  <property name="stepIndex">2</property>
+</record>
+<record>
+  <date>2018-07-09T15:20:13</date>
+  <millis>1531129813197</millis>
+  <sequence>21</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking url</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:13</date>
+  <millis>1531129813199</millis>
+  <sequence>22</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Navigating to &amp;apos;https://www.snapdeal.com/&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:16</date>
+  <millis>1531129816019</millis>
+  <sequence>23</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Navigate to &amp;apos;https://www.snapdeal.com/&amp;apos; successfully</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:16</date>
+  <millis>1531129816021</millis>
+  <sequence>24</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : navigateToUrl</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:16</date>
+  <millis>1531129816021</millis>
+  <sequence>25</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : waitForElementPresent</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">27</property>
+  <property name="stepIndex">3</property>
+</record>
+<record>
+  <date>2018-07-09T15:20:16</date>
+  <millis>1531129816033</millis>
+  <sequence>26</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding Test Object with id &amp;apos;Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/div_Sign In&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:16</date>
+  <millis>1531129816089</millis>
+  <sequence>27</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking object</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:16</date>
+  <millis>1531129816090</millis>
+  <sequence>28</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking timeout</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:16</date>
+  <millis>1531129816111</millis>
+  <sequence>29</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding web element with id: &amp;apos;Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/div_Sign In&amp;apos; located by &amp;apos;By.xpath: //div[(text() = &amp;apos;\n\t\t\t  \t\tSign In\n\t\t\t\t\t  \n\t\t\t\t\t  \t\t\n\t\t\t\t\t  \t\t\n\t\t\t\t\t  \n\t\t\t\t\t  \n\t\t\t\t\t  \n\t\t\t      \t\t\t\n\t\t\t      \t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tOrders\n\t\t\t\t\t\t\t\t\t\tShortlist\n\t\t\t\t\t\t\t\t\t\tSD Cash\n\t\t\t\t\t\t\t\t\t\tE-Gift Voucher\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tLogout\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tYour Account\n\t\t\t\t\t\t\t\t\t\tYour Orders\n\t\t\t\t\t\t\t\t\t\tShortlist\n\t\t\t\t\t\t\t\t\t\tSD Cash\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t \t\t\tIf you are a new user\n\t\t\t\t\t\t \t\t\tRegister\n\t\t\t\t\t\t \t\t\tlogin\n\t\t\t\t\t\t \t\t\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t    &amp;apos; or . = &amp;apos;\n\t\t\t  \t\tSign In\n\t\t\t\t\t  \n\t\t\t\t\t  \t\t\n\t\t\t\t\t  \t\t\n\t\t\t\t\t  \n\t\t\t\t\t  \n\t\t\t\t\t  \n\t\t\t      \t\t\t\n\t\t\t      \t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tOrders\n\t\t\t\t\t\t\t\t\t\tShortlist\n\t\t\t\t\t\t\t\t\t\tSD Cash\n\t\t\t\t\t\t\t\t\t\tE-Gift Voucher\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tLogout\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tYour Account\n\t\t\t\t\t\t\t\t\t\tYour Orders\n\t\t\t\t\t\t\t\t\t\tShortlist\n\t\t\t\t\t\t\t\t\t\tSD Cash\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t \t\t\tIf you are a new user\n\t\t\t\t\t\t \t\t\tRegister\n\t\t\t\t\t\t \t\t\tlogin\n\t\t\t\t\t\t \t\t\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t    &amp;apos;)]&amp;apos; in &amp;apos;10&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:16</date>
+  <millis>1531129816172</millis>
+  <sequence>30</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Found 1 web elements with id: &amp;apos;Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/div_Sign In&amp;apos; located by &amp;apos;By.xpath: //div[(text() = &amp;apos;\n\t\t\t  \t\tSign In\n\t\t\t\t\t  \n\t\t\t\t\t  \t\t\n\t\t\t\t\t  \t\t\n\t\t\t\t\t  \n\t\t\t\t\t  \n\t\t\t\t\t  \n\t\t\t      \t\t\t\n\t\t\t      \t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tOrders\n\t\t\t\t\t\t\t\t\t\tShortlist\n\t\t\t\t\t\t\t\t\t\tSD Cash\n\t\t\t\t\t\t\t\t\t\tE-Gift Voucher\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tLogout\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tYour Account\n\t\t\t\t\t\t\t\t\t\tYour Orders\n\t\t\t\t\t\t\t\t\t\tShortlist\n\t\t\t\t\t\t\t\t\t\tSD Cash\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t \t\t\tIf you are a new user\n\t\t\t\t\t\t \t\t\tRegister\n\t\t\t\t\t\t \t\t\tlogin\n\t\t\t\t\t\t \t\t\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t    &amp;apos; or . = &amp;apos;\n\t\t\t  \t\tSign In\n\t\t\t\t\t  \n\t\t\t\t\t  \t\t\n\t\t\t\t\t  \t\t\n\t\t\t\t\t  \n\t\t\t\t\t  \n\t\t\t\t\t  \n\t\t\t      \t\t\t\n\t\t\t      \t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tOrders\n\t\t\t\t\t\t\t\t\t\tShortlist\n\t\t\t\t\t\t\t\t\t\tSD Cash\n\t\t\t\t\t\t\t\t\t\tE-Gift Voucher\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tLogout\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tYour Account\n\t\t\t\t\t\t\t\t\t\tYour Orders\n\t\t\t\t\t\t\t\t\t\tShortlist\n\t\t\t\t\t\t\t\t\t\tSD Cash\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t \t\t\tIf you are a new user\n\t\t\t\t\t\t \t\t\tRegister\n\t\t\t\t\t\t \t\t\tlogin\n\t\t\t\t\t\t \t\t\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t    &amp;apos;)]&amp;apos; in &amp;apos;10&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:16</date>
+  <millis>1531129816174</millis>
+  <sequence>31</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object &amp;apos;Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/div_Sign In&amp;apos; is present</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:16</date>
+  <millis>1531129816177</millis>
+  <sequence>32</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : waitForElementPresent</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:16</date>
+  <millis>1531129816178</millis>
+  <sequence>33</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : verifyElementPresent</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">30</property>
+  <property name="stepIndex">4</property>
+</record>
+<record>
+  <date>2018-07-09T15:20:16</date>
+  <millis>1531129816180</millis>
+  <sequence>34</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding Test Object with id &amp;apos;Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/div_Sign In&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:16</date>
+  <millis>1531129816211</millis>
+  <sequence>35</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking object</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:16</date>
+  <millis>1531129816225</millis>
+  <sequence>36</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking timeout</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:16</date>
+  <millis>1531129816230</millis>
+  <sequence>37</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Timeout &amp;apos;0&amp;apos; is invalid. Using default page load timeout: &amp;apos;30&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:16</date>
+  <millis>1531129816233</millis>
+  <sequence>38</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding web element with id: &amp;apos;Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/div_Sign In&amp;apos; located by &amp;apos;By.xpath: //div[(text() = &amp;apos;\n\t\t\t  \t\tSign In\n\t\t\t\t\t  \n\t\t\t\t\t  \t\t\n\t\t\t\t\t  \t\t\n\t\t\t\t\t  \n\t\t\t\t\t  \n\t\t\t\t\t  \n\t\t\t      \t\t\t\n\t\t\t      \t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tOrders\n\t\t\t\t\t\t\t\t\t\tShortlist\n\t\t\t\t\t\t\t\t\t\tSD Cash\n\t\t\t\t\t\t\t\t\t\tE-Gift Voucher\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tLogout\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tYour Account\n\t\t\t\t\t\t\t\t\t\tYour Orders\n\t\t\t\t\t\t\t\t\t\tShortlist\n\t\t\t\t\t\t\t\t\t\tSD Cash\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t \t\t\tIf you are a new user\n\t\t\t\t\t\t \t\t\tRegister\n\t\t\t\t\t\t \t\t\tlogin\n\t\t\t\t\t\t \t\t\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t    &amp;apos; or . = &amp;apos;\n\t\t\t  \t\tSign In\n\t\t\t\t\t  \n\t\t\t\t\t  \t\t\n\t\t\t\t\t  \t\t\n\t\t\t\t\t  \n\t\t\t\t\t  \n\t\t\t\t\t  \n\t\t\t      \t\t\t\n\t\t\t      \t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tOrders\n\t\t\t\t\t\t\t\t\t\tShortlist\n\t\t\t\t\t\t\t\t\t\tSD Cash\n\t\t\t\t\t\t\t\t\t\tE-Gift Voucher\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tLogout\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tYour Account\n\t\t\t\t\t\t\t\t\t\tYour Orders\n\t\t\t\t\t\t\t\t\t\tShortlist\n\t\t\t\t\t\t\t\t\t\tSD Cash\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t \t\t\tIf you are a new user\n\t\t\t\t\t\t \t\t\tRegister\n\t\t\t\t\t\t \t\t\tlogin\n\t\t\t\t\t\t \t\t\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t    &amp;apos;)]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:16</date>
+  <millis>1531129816769</millis>
+  <sequence>39</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Found 1 web elements with id: &amp;apos;Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/div_Sign In&amp;apos; located by &amp;apos;By.xpath: //div[(text() = &amp;apos;\n\t\t\t  \t\tSign In\n\t\t\t\t\t  \n\t\t\t\t\t  \t\t\n\t\t\t\t\t  \t\t\n\t\t\t\t\t  \n\t\t\t\t\t  \n\t\t\t\t\t  \n\t\t\t      \t\t\t\n\t\t\t      \t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tOrders\n\t\t\t\t\t\t\t\t\t\tShortlist\n\t\t\t\t\t\t\t\t\t\tSD Cash\n\t\t\t\t\t\t\t\t\t\tE-Gift Voucher\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tLogout\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tYour Account\n\t\t\t\t\t\t\t\t\t\tYour Orders\n\t\t\t\t\t\t\t\t\t\tShortlist\n\t\t\t\t\t\t\t\t\t\tSD Cash\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t \t\t\tIf you are a new user\n\t\t\t\t\t\t \t\t\tRegister\n\t\t\t\t\t\t \t\t\tlogin\n\t\t\t\t\t\t \t\t\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t    &amp;apos; or . = &amp;apos;\n\t\t\t  \t\tSign In\n\t\t\t\t\t  \n\t\t\t\t\t  \t\t\n\t\t\t\t\t  \t\t\n\t\t\t\t\t  \n\t\t\t\t\t  \n\t\t\t\t\t  \n\t\t\t      \t\t\t\n\t\t\t      \t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tOrders\n\t\t\t\t\t\t\t\t\t\tShortlist\n\t\t\t\t\t\t\t\t\t\tSD Cash\n\t\t\t\t\t\t\t\t\t\tE-Gift Voucher\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tLogout\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tYour Account\n\t\t\t\t\t\t\t\t\t\tYour Orders\n\t\t\t\t\t\t\t\t\t\tShortlist\n\t\t\t\t\t\t\t\t\t\tSD Cash\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t \t\t\tIf you are a new user\n\t\t\t\t\t\t \t\t\tRegister\n\t\t\t\t\t\t \t\t\tlogin\n\t\t\t\t\t\t \t\t\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t    &amp;apos;)]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:16</date>
+  <millis>1531129816778</millis>
+  <sequence>40</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object &amp;apos;Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/div_Sign In&amp;apos; is present</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:16</date>
+  <millis>1531129816781</millis>
+  <sequence>41</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : verifyElementPresent</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:16</date>
+  <millis>1531129816784</millis>
+  <sequence>42</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">33</property>
+  <property name="stepIndex">5</property>
+</record>
+<record>
+  <date>2018-07-09T15:20:16</date>
+  <millis>1531129816785</millis>
+  <sequence>43</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding Test Object with id &amp;apos;Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/div_Sign In&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:16</date>
+  <millis>1531129816853</millis>
+  <sequence>44</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking object</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:16</date>
+  <millis>1531129816854</millis>
+  <sequence>45</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking timeout</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:16</date>
+  <millis>1531129816855</millis>
+  <sequence>46</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding web element with id: &amp;apos;Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/div_Sign In&amp;apos; located by &amp;apos;By.xpath: //div[(text() = &amp;apos;\n\t\t\t  \t\tSign In\n\t\t\t\t\t  \n\t\t\t\t\t  \t\t\n\t\t\t\t\t  \t\t\n\t\t\t\t\t  \n\t\t\t\t\t  \n\t\t\t\t\t  \n\t\t\t      \t\t\t\n\t\t\t      \t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tOrders\n\t\t\t\t\t\t\t\t\t\tShortlist\n\t\t\t\t\t\t\t\t\t\tSD Cash\n\t\t\t\t\t\t\t\t\t\tE-Gift Voucher\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tLogout\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tYour Account\n\t\t\t\t\t\t\t\t\t\tYour Orders\n\t\t\t\t\t\t\t\t\t\tShortlist\n\t\t\t\t\t\t\t\t\t\tSD Cash\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t \t\t\tIf you are a new user\n\t\t\t\t\t\t \t\t\tRegister\n\t\t\t\t\t\t \t\t\tlogin\n\t\t\t\t\t\t \t\t\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t    &amp;apos; or . = &amp;apos;\n\t\t\t  \t\tSign In\n\t\t\t\t\t  \n\t\t\t\t\t  \t\t\n\t\t\t\t\t  \t\t\n\t\t\t\t\t  \n\t\t\t\t\t  \n\t\t\t\t\t  \n\t\t\t      \t\t\t\n\t\t\t      \t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tOrders\n\t\t\t\t\t\t\t\t\t\tShortlist\n\t\t\t\t\t\t\t\t\t\tSD Cash\n\t\t\t\t\t\t\t\t\t\tE-Gift Voucher\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tLogout\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tYour Account\n\t\t\t\t\t\t\t\t\t\tYour Orders\n\t\t\t\t\t\t\t\t\t\tShortlist\n\t\t\t\t\t\t\t\t\t\tSD Cash\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t \t\t\tIf you are a new user\n\t\t\t\t\t\t \t\t\tRegister\n\t\t\t\t\t\t \t\t\tlogin\n\t\t\t\t\t\t \t\t\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t    &amp;apos;)]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:17</date>
+  <millis>1531129817049</millis>
+  <sequence>47</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Found 1 web elements with id: &amp;apos;Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/div_Sign In&amp;apos; located by &amp;apos;By.xpath: //div[(text() = &amp;apos;\n\t\t\t  \t\tSign In\n\t\t\t\t\t  \n\t\t\t\t\t  \t\t\n\t\t\t\t\t  \t\t\n\t\t\t\t\t  \n\t\t\t\t\t  \n\t\t\t\t\t  \n\t\t\t      \t\t\t\n\t\t\t      \t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tOrders\n\t\t\t\t\t\t\t\t\t\tShortlist\n\t\t\t\t\t\t\t\t\t\tSD Cash\n\t\t\t\t\t\t\t\t\t\tE-Gift Voucher\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tLogout\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tYour Account\n\t\t\t\t\t\t\t\t\t\tYour Orders\n\t\t\t\t\t\t\t\t\t\tShortlist\n\t\t\t\t\t\t\t\t\t\tSD Cash\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t \t\t\tIf you are a new user\n\t\t\t\t\t\t \t\t\tRegister\n\t\t\t\t\t\t \t\t\tlogin\n\t\t\t\t\t\t \t\t\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t    &amp;apos; or . = &amp;apos;\n\t\t\t  \t\tSign In\n\t\t\t\t\t  \n\t\t\t\t\t  \t\t\n\t\t\t\t\t  \t\t\n\t\t\t\t\t  \n\t\t\t\t\t  \n\t\t\t\t\t  \n\t\t\t      \t\t\t\n\t\t\t      \t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tOrders\n\t\t\t\t\t\t\t\t\t\tShortlist\n\t\t\t\t\t\t\t\t\t\tSD Cash\n\t\t\t\t\t\t\t\t\t\tE-Gift Voucher\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tLogout\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tYour Account\n\t\t\t\t\t\t\t\t\t\tYour Orders\n\t\t\t\t\t\t\t\t\t\tShortlist\n\t\t\t\t\t\t\t\t\t\tSD Cash\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t \t\t\tIf you are a new user\n\t\t\t\t\t\t \t\t\tRegister\n\t\t\t\t\t\t \t\t\tlogin\n\t\t\t\t\t\t \t\t\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t    &amp;apos;)]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:17</date>
+  <millis>1531129817056</millis>
+  <sequence>48</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Clicking on object: &amp;apos;Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/div_Sign In&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:18</date>
+  <millis>1531129818016</millis>
+  <sequence>49</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/div_Sign In&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:18</date>
+  <millis>1531129818021</millis>
+  <sequence>50</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:18</date>
+  <millis>1531129818022</millis>
+  <sequence>51</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : waitForElementPresent</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">35</property>
+  <property name="stepIndex">6</property>
+</record>
+<record>
+  <date>2018-07-09T15:20:18</date>
+  <millis>1531129818023</millis>
+  <sequence>52</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding Test Object with id &amp;apos;Object Repository/SD_Login_OR/Page_Online Shopping Site in India (1)/span_login&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:18</date>
+  <millis>1531129818029</millis>
+  <sequence>53</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking object</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:18</date>
+  <millis>1531129818030</millis>
+  <sequence>54</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking timeout</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:18</date>
+  <millis>1531129818031</millis>
+  <sequence>55</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding web element with id: &amp;apos;Object Repository/SD_Login_OR/Page_Online Shopping Site in India (1)/span_login&amp;apos; located by &amp;apos;By.xpath: id(\&amp;quot;sdHeader\&amp;quot;)/div[@class=\&amp;quot;headerBar reset-padding\&amp;quot;]/div[@class=\&amp;quot;topBar  top-bar-homepage  top-freeze-reference-point\&amp;quot;]/div[@class=\&amp;quot;header_wrapper\&amp;quot;]/div[@class=\&amp;quot;col-xs-5 reset-padding header-right rfloat\&amp;quot;]/div[@class=\&amp;quot;myAccountTab accountHeaderClass col-xs-13 reset-padding\&amp;quot;]/div[@class=\&amp;quot;accountInner accountHeadColor\&amp;quot;]/div[@class=\&amp;quot;dropdownWrapper\&amp;quot;]/div[@class=\&amp;quot;dropdownAccountNonLoggedIn\&amp;quot;]/div[@class=\&amp;quot;accountInfoNonLoggedIn\&amp;quot;]/span[@class=\&amp;quot;accountBtn btn rippleWhite\&amp;quot;][count(. | //span[(text() = &amp;apos;login&amp;apos; or . = &amp;apos;login&amp;apos;)]) = count(//span[(text() = &amp;apos;login&amp;apos; or . = &amp;apos;login&amp;apos;)])]&amp;apos; in &amp;apos;10&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:18</date>
+  <millis>1531129818060</millis>
+  <sequence>56</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Found 1 web elements with id: &amp;apos;Object Repository/SD_Login_OR/Page_Online Shopping Site in India (1)/span_login&amp;apos; located by &amp;apos;By.xpath: id(\&amp;quot;sdHeader\&amp;quot;)/div[@class=\&amp;quot;headerBar reset-padding\&amp;quot;]/div[@class=\&amp;quot;topBar  top-bar-homepage  top-freeze-reference-point\&amp;quot;]/div[@class=\&amp;quot;header_wrapper\&amp;quot;]/div[@class=\&amp;quot;col-xs-5 reset-padding header-right rfloat\&amp;quot;]/div[@class=\&amp;quot;myAccountTab accountHeaderClass col-xs-13 reset-padding\&amp;quot;]/div[@class=\&amp;quot;accountInner accountHeadColor\&amp;quot;]/div[@class=\&amp;quot;dropdownWrapper\&amp;quot;]/div[@class=\&amp;quot;dropdownAccountNonLoggedIn\&amp;quot;]/div[@class=\&amp;quot;accountInfoNonLoggedIn\&amp;quot;]/span[@class=\&amp;quot;accountBtn btn rippleWhite\&amp;quot;][count(. | //span[(text() = &amp;apos;login&amp;apos; or . = &amp;apos;login&amp;apos;)]) = count(//span[(text() = &amp;apos;login&amp;apos; or . = &amp;apos;login&amp;apos;)])]&amp;apos; in &amp;apos;10&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:18</date>
+  <millis>1531129818061</millis>
+  <sequence>57</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object &amp;apos;Object Repository/SD_Login_OR/Page_Online Shopping Site in India (1)/span_login&amp;apos; is present</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:18</date>
+  <millis>1531129818062</millis>
+  <sequence>58</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : waitForElementPresent</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:18</date>
+  <millis>1531129818062</millis>
+  <sequence>59</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : verifyElementPresent</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">37</property>
+  <property name="stepIndex">7</property>
+</record>
+<record>
+  <date>2018-07-09T15:20:18</date>
+  <millis>1531129818063</millis>
+  <sequence>60</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding Test Object with id &amp;apos;Object Repository/SD_Login_OR/Page_Online Shopping Site in India (1)/span_login&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:18</date>
+  <millis>1531129818071</millis>
+  <sequence>61</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking object</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:18</date>
+  <millis>1531129818073</millis>
+  <sequence>62</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking timeout</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:18</date>
+  <millis>1531129818075</millis>
+  <sequence>63</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Timeout &amp;apos;0&amp;apos; is invalid. Using default page load timeout: &amp;apos;30&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:18</date>
+  <millis>1531129818076</millis>
+  <sequence>64</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding web element with id: &amp;apos;Object Repository/SD_Login_OR/Page_Online Shopping Site in India (1)/span_login&amp;apos; located by &amp;apos;By.xpath: id(\&amp;quot;sdHeader\&amp;quot;)/div[@class=\&amp;quot;headerBar reset-padding\&amp;quot;]/div[@class=\&amp;quot;topBar  top-bar-homepage  top-freeze-reference-point\&amp;quot;]/div[@class=\&amp;quot;header_wrapper\&amp;quot;]/div[@class=\&amp;quot;col-xs-5 reset-padding header-right rfloat\&amp;quot;]/div[@class=\&amp;quot;myAccountTab accountHeaderClass col-xs-13 reset-padding\&amp;quot;]/div[@class=\&amp;quot;accountInner accountHeadColor\&amp;quot;]/div[@class=\&amp;quot;dropdownWrapper\&amp;quot;]/div[@class=\&amp;quot;dropdownAccountNonLoggedIn\&amp;quot;]/div[@class=\&amp;quot;accountInfoNonLoggedIn\&amp;quot;]/span[@class=\&amp;quot;accountBtn btn rippleWhite\&amp;quot;][count(. | //span[(text() = &amp;apos;login&amp;apos; or . = &amp;apos;login&amp;apos;)]) = count(//span[(text() = &amp;apos;login&amp;apos; or . = &amp;apos;login&amp;apos;)])]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:18</date>
+  <millis>1531129818170</millis>
+  <sequence>65</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Found 1 web elements with id: &amp;apos;Object Repository/SD_Login_OR/Page_Online Shopping Site in India (1)/span_login&amp;apos; located by &amp;apos;By.xpath: id(\&amp;quot;sdHeader\&amp;quot;)/div[@class=\&amp;quot;headerBar reset-padding\&amp;quot;]/div[@class=\&amp;quot;topBar  top-bar-homepage  top-freeze-reference-point\&amp;quot;]/div[@class=\&amp;quot;header_wrapper\&amp;quot;]/div[@class=\&amp;quot;col-xs-5 reset-padding header-right rfloat\&amp;quot;]/div[@class=\&amp;quot;myAccountTab accountHeaderClass col-xs-13 reset-padding\&amp;quot;]/div[@class=\&amp;quot;accountInner accountHeadColor\&amp;quot;]/div[@class=\&amp;quot;dropdownWrapper\&amp;quot;]/div[@class=\&amp;quot;dropdownAccountNonLoggedIn\&amp;quot;]/div[@class=\&amp;quot;accountInfoNonLoggedIn\&amp;quot;]/span[@class=\&amp;quot;accountBtn btn rippleWhite\&amp;quot;][count(. | //span[(text() = &amp;apos;login&amp;apos; or . = &amp;apos;login&amp;apos;)]) = count(//span[(text() = &amp;apos;login&amp;apos; or . = &amp;apos;login&amp;apos;)])]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:18</date>
+  <millis>1531129818171</millis>
+  <sequence>66</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object &amp;apos;Object Repository/SD_Login_OR/Page_Online Shopping Site in India (1)/span_login&amp;apos; is present</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:18</date>
+  <millis>1531129818172</millis>
+  <sequence>67</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : verifyElementPresent</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:18</date>
+  <millis>1531129818172</millis>
+  <sequence>68</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">39</property>
+  <property name="stepIndex">8</property>
+</record>
+<record>
+  <date>2018-07-09T15:20:18</date>
+  <millis>1531129818176</millis>
+  <sequence>69</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding Test Object with id &amp;apos;Object Repository/SD_Login_OR/Page_Online Shopping Site in India (1)/span_login&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:18</date>
+  <millis>1531129818183</millis>
+  <sequence>70</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking object</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:18</date>
+  <millis>1531129818185</millis>
+  <sequence>71</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking timeout</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:18</date>
+  <millis>1531129818186</millis>
+  <sequence>72</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding web element with id: &amp;apos;Object Repository/SD_Login_OR/Page_Online Shopping Site in India (1)/span_login&amp;apos; located by &amp;apos;By.xpath: id(\&amp;quot;sdHeader\&amp;quot;)/div[@class=\&amp;quot;headerBar reset-padding\&amp;quot;]/div[@class=\&amp;quot;topBar  top-bar-homepage  top-freeze-reference-point\&amp;quot;]/div[@class=\&amp;quot;header_wrapper\&amp;quot;]/div[@class=\&amp;quot;col-xs-5 reset-padding header-right rfloat\&amp;quot;]/div[@class=\&amp;quot;myAccountTab accountHeaderClass col-xs-13 reset-padding\&amp;quot;]/div[@class=\&amp;quot;accountInner accountHeadColor\&amp;quot;]/div[@class=\&amp;quot;dropdownWrapper\&amp;quot;]/div[@class=\&amp;quot;dropdownAccountNonLoggedIn\&amp;quot;]/div[@class=\&amp;quot;accountInfoNonLoggedIn\&amp;quot;]/span[@class=\&amp;quot;accountBtn btn rippleWhite\&amp;quot;][count(. | //span[(text() = &amp;apos;login&amp;apos; or . = &amp;apos;login&amp;apos;)]) = count(//span[(text() = &amp;apos;login&amp;apos; or . = &amp;apos;login&amp;apos;)])]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:18</date>
+  <millis>1531129818267</millis>
+  <sequence>73</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Found 1 web elements with id: &amp;apos;Object Repository/SD_Login_OR/Page_Online Shopping Site in India (1)/span_login&amp;apos; located by &amp;apos;By.xpath: id(\&amp;quot;sdHeader\&amp;quot;)/div[@class=\&amp;quot;headerBar reset-padding\&amp;quot;]/div[@class=\&amp;quot;topBar  top-bar-homepage  top-freeze-reference-point\&amp;quot;]/div[@class=\&amp;quot;header_wrapper\&amp;quot;]/div[@class=\&amp;quot;col-xs-5 reset-padding header-right rfloat\&amp;quot;]/div[@class=\&amp;quot;myAccountTab accountHeaderClass col-xs-13 reset-padding\&amp;quot;]/div[@class=\&amp;quot;accountInner accountHeadColor\&amp;quot;]/div[@class=\&amp;quot;dropdownWrapper\&amp;quot;]/div[@class=\&amp;quot;dropdownAccountNonLoggedIn\&amp;quot;]/div[@class=\&amp;quot;accountInfoNonLoggedIn\&amp;quot;]/span[@class=\&amp;quot;accountBtn btn rippleWhite\&amp;quot;][count(. | //span[(text() = &amp;apos;login&amp;apos; or . = &amp;apos;login&amp;apos;)]) = count(//span[(text() = &amp;apos;login&amp;apos; or . = &amp;apos;login&amp;apos;)])]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:18</date>
+  <millis>1531129818268</millis>
+  <sequence>74</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Clicking on object: &amp;apos;Object Repository/SD_Login_OR/Page_Online Shopping Site in India (1)/span_login&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:18</date>
+  <millis>1531129818600</millis>
+  <sequence>75</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/SD_Login_OR/Page_Online Shopping Site in India (1)/span_login&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:18</date>
+  <millis>1531129818601</millis>
+  <sequence>76</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:18</date>
+  <millis>1531129818601</millis>
+  <sequence>77</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : setText</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">41</property>
+  <property name="stepIndex">9</property>
+</record>
+<record>
+  <date>2018-07-09T15:20:18</date>
+  <millis>1531129818602</millis>
+  <sequence>78</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding Test Object with id &amp;apos;Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/Page_Online Shopping Site in India/input_username&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:18</date>
+  <millis>1531129818609</millis>
+  <sequence>79</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding Test Object with id &amp;apos;Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/Page_Online Shopping Site in India/iframe_iframeLogin&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:18</date>
+  <millis>1531129818639</millis>
+  <sequence>80</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking object</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:18</date>
+  <millis>1531129818640</millis>
+  <sequence>81</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking text</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:18</date>
+  <millis>1531129818641</millis>
+  <sequence>82</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/Page_Online Shopping Site in India/input_username&amp;apos; has parent object(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:18</date>
+  <millis>1531129818641</millis>
+  <sequence>83</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Switching to iframe: &amp;apos;Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/Page_Online Shopping Site in India/iframe_iframeLogin&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:18</date>
+  <millis>1531129818642</millis>
+  <sequence>84</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking timeout</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:18</date>
+  <millis>1531129818643</millis>
+  <sequence>85</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding web element with id: &amp;apos;Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/Page_Online Shopping Site in India/iframe_iframeLogin&amp;apos; located by &amp;apos;By.xpath: //iframe[@id = &amp;apos;loginIframe&amp;apos; and @src = &amp;apos;https://www.snapdeal.com:443/iframeLogin#https://www.snapdeal.com/&amp;apos; and @name = &amp;apos;iframeLogin&amp;apos;]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:18</date>
+  <millis>1531129818724</millis>
+  <sequence>86</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Found 1 web elements with id: &amp;apos;Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/Page_Online Shopping Site in India/iframe_iframeLogin&amp;apos; located by &amp;apos;By.xpath: //iframe[@id = &amp;apos;loginIframe&amp;apos; and @src = &amp;apos;https://www.snapdeal.com:443/iframeLogin#https://www.snapdeal.com/&amp;apos; and @name = &amp;apos;iframeLogin&amp;apos;]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:18</date>
+  <millis>1531129818768</millis>
+  <sequence>87</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Switched to iframe: &amp;apos;Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/Page_Online Shopping Site in India/iframe_iframeLogin&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:18</date>
+  <millis>1531129818768</millis>
+  <sequence>88</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking timeout</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:18</date>
+  <millis>1531129818769</millis>
+  <sequence>89</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding web element with id: &amp;apos;Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/Page_Online Shopping Site in India/input_username&amp;apos; located by &amp;apos;By.xpath: //input[@type = &amp;apos;text&amp;apos; and @placeholder = &amp;apos;Mobile Number/ Email&amp;apos; and @name = &amp;apos;username&amp;apos; and @id = &amp;apos;userName&amp;apos;]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:18</date>
+  <millis>1531129818846</millis>
+  <sequence>90</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Found 1 web elements with id: &amp;apos;Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/Page_Online Shopping Site in India/input_username&amp;apos; located by &amp;apos;By.xpath: //input[@type = &amp;apos;text&amp;apos; and @placeholder = &amp;apos;Mobile Number/ Email&amp;apos; and @name = &amp;apos;username&amp;apos; and @id = &amp;apos;userName&amp;apos;]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:18</date>
+  <millis>1531129818847</millis>
+  <sequence>91</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Clearing text of object &amp;apos;Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/Page_Online Shopping Site in India/input_username&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:18</date>
+  <millis>1531129818862</millis>
+  <sequence>92</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking timeout</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:18</date>
+  <millis>1531129818863</millis>
+  <sequence>93</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding web element with id: &amp;apos;Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/Page_Online Shopping Site in India/input_username&amp;apos; located by &amp;apos;By.xpath: //input[@type = &amp;apos;text&amp;apos; and @placeholder = &amp;apos;Mobile Number/ Email&amp;apos; and @name = &amp;apos;username&amp;apos; and @id = &amp;apos;userName&amp;apos;]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:18</date>
+  <millis>1531129818874</millis>
+  <sequence>94</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Found 1 web elements with id: &amp;apos;Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/Page_Online Shopping Site in India/input_username&amp;apos; located by &amp;apos;By.xpath: //input[@type = &amp;apos;text&amp;apos; and @placeholder = &amp;apos;Mobile Number/ Email&amp;apos; and @name = &amp;apos;username&amp;apos; and @id = &amp;apos;userName&amp;apos;]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:18</date>
+  <millis>1531129818880</millis>
+  <sequence>95</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Setting text of object &amp;apos;Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/Page_Online Shopping Site in India/input_username&amp;apos; to value &amp;apos;9654421103&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:18</date>
+  <millis>1531129818939</millis>
+  <sequence>96</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Text &amp;apos;9654421103&amp;apos; is set on object &amp;apos;Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/Page_Online Shopping Site in India/input_username&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:18</date>
+  <millis>1531129818972</millis>
+  <sequence>97</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Switching to default content</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:18</date>
+  <millis>1531129818995</millis>
+  <sequence>98</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : setText</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:18</date>
+  <millis>1531129818995</millis>
+  <sequence>99</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">44</property>
+  <property name="stepIndex">10</property>
+</record>
+<record>
+  <date>2018-07-09T15:20:18</date>
+  <millis>1531129818996</millis>
+  <sequence>100</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding Test Object with id &amp;apos;Object Repository/SD_Login_OR/Page_Online Shopping Site in India/button_continue&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:19</date>
+  <millis>1531129819009</millis>
+  <sequence>101</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding Test Object with id &amp;apos;Object Repository/SD_Login_OR/Page_Online Shopping Site in India/iframe_iframeLogin&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:19</date>
+  <millis>1531129819013</millis>
+  <sequence>102</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking object</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:19</date>
+  <millis>1531129819014</millis>
+  <sequence>103</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/SD_Login_OR/Page_Online Shopping Site in India/button_continue&amp;apos; has parent object(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:19</date>
+  <millis>1531129819014</millis>
+  <sequence>104</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Switching to iframe: &amp;apos;Object Repository/SD_Login_OR/Page_Online Shopping Site in India/iframe_iframeLogin&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:19</date>
+  <millis>1531129819014</millis>
+  <sequence>105</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking timeout</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:19</date>
+  <millis>1531129819017</millis>
+  <sequence>106</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding web element with id: &amp;apos;Object Repository/SD_Login_OR/Page_Online Shopping Site in India/iframe_iframeLogin&amp;apos; located by &amp;apos;By.xpath: //iframe[@id = &amp;apos;loginIframe&amp;apos; and @src = &amp;apos;https://www.snapdeal.com:443/iframeLogin#https://www.snapdeal.com/&amp;apos; and @name = &amp;apos;iframeLogin&amp;apos;]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:19</date>
+  <millis>1531129819037</millis>
+  <sequence>107</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Found 1 web elements with id: &amp;apos;Object Repository/SD_Login_OR/Page_Online Shopping Site in India/iframe_iframeLogin&amp;apos; located by &amp;apos;By.xpath: //iframe[@id = &amp;apos;loginIframe&amp;apos; and @src = &amp;apos;https://www.snapdeal.com:443/iframeLogin#https://www.snapdeal.com/&amp;apos; and @name = &amp;apos;iframeLogin&amp;apos;]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:19</date>
+  <millis>1531129819056</millis>
+  <sequence>108</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Switched to iframe: &amp;apos;Object Repository/SD_Login_OR/Page_Online Shopping Site in India/iframe_iframeLogin&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:19</date>
+  <millis>1531129819057</millis>
+  <sequence>109</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking timeout</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:19</date>
+  <millis>1531129819057</millis>
+  <sequence>110</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding web element with id: &amp;apos;Object Repository/SD_Login_OR/Page_Online Shopping Site in India/button_continue&amp;apos; located by &amp;apos;By.xpath: //button[@id = &amp;apos;checkUser&amp;apos; and (text() = &amp;apos;continue&amp;apos; or . = &amp;apos;continue&amp;apos;)]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:19</date>
+  <millis>1531129819070</millis>
+  <sequence>111</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Found 1 web elements with id: &amp;apos;Object Repository/SD_Login_OR/Page_Online Shopping Site in India/button_continue&amp;apos; located by &amp;apos;By.xpath: //button[@id = &amp;apos;checkUser&amp;apos; and (text() = &amp;apos;continue&amp;apos; or . = &amp;apos;continue&amp;apos;)]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:19</date>
+  <millis>1531129819071</millis>
+  <sequence>112</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Clicking on object: &amp;apos;Object Repository/SD_Login_OR/Page_Online Shopping Site in India/button_continue&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:19</date>
+  <millis>1531129819347</millis>
+  <sequence>113</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/SD_Login_OR/Page_Online Shopping Site in India/button_continue&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:19</date>
+  <millis>1531129819362</millis>
+  <sequence>114</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Switching to default content</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:19</date>
+  <millis>1531129819421</millis>
+  <sequence>115</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:19</date>
+  <millis>1531129819421</millis>
+  <sequence>116</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">46</property>
+  <property name="stepIndex">11</property>
+</record>
+<record>
+  <date>2018-07-09T15:20:19</date>
+  <millis>1531129819421</millis>
+  <sequence>117</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding Test Object with id &amp;apos;Object Repository/New Folder/Page_Online Shopping Site in India/button_Login Without Password&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:19</date>
+  <millis>1531129819425</millis>
+  <sequence>118</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding Test Object with id &amp;apos;Object Repository/New Folder/Page_Online Shopping Site in India/iframe_iframeLogin&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:19</date>
+  <millis>1531129819434</millis>
+  <sequence>119</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking object</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:19</date>
+  <millis>1531129819435</millis>
+  <sequence>120</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/New Folder/Page_Online Shopping Site in India/button_Login Without Password&amp;apos; has parent object(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:19</date>
+  <millis>1531129819436</millis>
+  <sequence>121</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Switching to iframe: &amp;apos;Object Repository/New Folder/Page_Online Shopping Site in India/iframe_iframeLogin&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:19</date>
+  <millis>1531129819437</millis>
+  <sequence>122</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking timeout</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:19</date>
+  <millis>1531129819438</millis>
+  <sequence>123</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding web element with id: &amp;apos;Object Repository/New Folder/Page_Online Shopping Site in India/iframe_iframeLogin&amp;apos; located by &amp;apos;By.xpath: //iframe[@id = &amp;apos;loginIframe&amp;apos; and @src = &amp;apos;https://www.snapdeal.com:443/iframeLogin#https://www.snapdeal.com/&amp;apos; and @name = &amp;apos;iframeLogin&amp;apos;]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:19</date>
+  <millis>1531129819452</millis>
+  <sequence>124</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Found 1 web elements with id: &amp;apos;Object Repository/New Folder/Page_Online Shopping Site in India/iframe_iframeLogin&amp;apos; located by &amp;apos;By.xpath: //iframe[@id = &amp;apos;loginIframe&amp;apos; and @src = &amp;apos;https://www.snapdeal.com:443/iframeLogin#https://www.snapdeal.com/&amp;apos; and @name = &amp;apos;iframeLogin&amp;apos;]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:19</date>
+  <millis>1531129819460</millis>
+  <sequence>125</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Switched to iframe: &amp;apos;Object Repository/New Folder/Page_Online Shopping Site in India/iframe_iframeLogin&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:19</date>
+  <millis>1531129819461</millis>
+  <sequence>126</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking timeout</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:19</date>
+  <millis>1531129819461</millis>
+  <sequence>127</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding web element with id: &amp;apos;Object Repository/New Folder/Page_Online Shopping Site in India/button_Login Without Password&amp;apos; located by &amp;apos;By.xpath: //button[@type = &amp;apos;button&amp;apos; and @id = &amp;apos;sendOtpUC&amp;apos; and (text() = &amp;apos;Login Without Password&amp;apos; or . = &amp;apos;Login Without Password&amp;apos;)]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:19</date>
+  <millis>1531129819471</millis>
+  <sequence>128</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Found 1 web elements with id: &amp;apos;Object Repository/New Folder/Page_Online Shopping Site in India/button_Login Without Password&amp;apos; located by &amp;apos;By.xpath: //button[@type = &amp;apos;button&amp;apos; and @id = &amp;apos;sendOtpUC&amp;apos; and (text() = &amp;apos;Login Without Password&amp;apos; or . = &amp;apos;Login Without Password&amp;apos;)]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:19</date>
+  <millis>1531129819472</millis>
+  <sequence>129</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Clicking on object: &amp;apos;Object Repository/New Folder/Page_Online Shopping Site in India/button_Login Without Password&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:19</date>
+  <millis>1531129819703</millis>
+  <sequence>130</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/New Folder/Page_Online Shopping Site in India/button_Login Without Password&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:19</date>
+  <millis>1531129819723</millis>
+  <sequence>131</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Switching to default content</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:19</date>
+  <millis>1531129819736</millis>
+  <sequence>132</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:19</date>
+  <millis>1531129819736</millis>
+  <sequence>133</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : closeBrowser</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">48</property>
+  <property name="stepIndex">12</property>
+</record>
+<record>
+  <date>2018-07-09T15:20:19</date>
+  <millis>1531129819738</millis>
+  <sequence>134</sequence>
+  <level>NOT_RUN</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>NOT_RUN: closeBrowser</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:19</date>
+  <millis>1531129819738</millis>
+  <sequence>135</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : closeBrowser</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:19</date>
+  <millis>1531129819738</millis>
+  <sequence>136</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test Cases/Snapdeal Web Page</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:19</date>
+  <millis>1531129819739</millis>
+  <sequence>137</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endTest</method>
+  <thread>1</thread>
+  <message>End Test Case : Test Cases/Snapdeal Web Page</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:19</date>
+  <millis>1531129819742</millis>
+  <sequence>138</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/Snapdeal Web Page</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="name">Test Cases/Snapdeal Web Page</property>
+  <property name="description"></property>
+  <property name="id">Test Cases/Snapdeal Web Page</property>
+  <property name="source">C:\\Users\\kartik.sehgal.in\\Katalon Studio\\SD\\Test Cases\\Snapdeal Web Page.tc</property>
+  <property name="isOptional">false</property>
+</record>
+<record>
+  <date>2018-07-09T15:20:19</date>
+  <millis>1531129819774</millis>
+  <sequence>139</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Evaluating variables for test case</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:19</date>
+  <millis>1531129819774</millis>
+  <sequence>140</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Variable &amp;apos;username&amp;apos; is set to 9958571972</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:19</date>
+  <millis>1531129819805</millis>
+  <sequence>141</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : openBrowser</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">23</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2018-07-09T15:20:19</date>
+  <millis>1531129819806</millis>
+  <sequence>142</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Opening browser</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:19</date>
+  <millis>1531129819806</millis>
+  <sequence>143</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>A browser is already opened. Closing browser and opening a new one</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:20</date>
+  <millis>1531129820177</millis>
+  <sequence>144</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Starting &amp;apos;Firefox&amp;apos; driver</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:25</date>
+  <millis>1531129825258</millis>
+  <sequence>146</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Logging run data &amp;apos;sessionId&amp;apos; with value &amp;apos;f262a531-9608-48d9-a91e-2c36931f7fb7&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="sessionId">f262a531-9608-48d9-a91e-2c36931f7fb7</property>
+</record>
+<record>
+  <date>2018-07-09T15:20:25</date>
+  <millis>1531129825279</millis>
+  <sequence>147</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Logging run data &amp;apos;browser&amp;apos; with value &amp;apos;Firefox 62.0&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="browser">Firefox 62.0</property>
+</record>
+<record>
+  <date>2018-07-09T15:20:25</date>
+  <millis>1531129825279</millis>
+  <sequence>148</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Logging run data &amp;apos;platform&amp;apos; with value &amp;apos;Windows 7&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="platform">Windows 7</property>
+</record>
+<record>
+  <date>2018-07-09T15:20:25</date>
+  <millis>1531129825280</millis>
+  <sequence>149</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Logging run data &amp;apos;seleniumVersion&amp;apos; with value &amp;apos;3.7.1&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="seleniumVersion">3.7.1</property>
+</record>
+<record>
+  <date>2018-07-09T15:20:25</date>
+  <millis>1531129825282</millis>
+  <sequence>150</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Logging run data &amp;apos;proxyInformation&amp;apos; with value &amp;apos;ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="proxyInformation">ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}</property>
+</record>
+<record>
+  <date>2018-07-09T15:20:25</date>
+  <millis>1531129825285</millis>
+  <sequence>151</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Browser is opened with url: &amp;apos;&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:25</date>
+  <millis>1531129825285</millis>
+  <sequence>152</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : openBrowser</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:25</date>
+  <millis>1531129825285</millis>
+  <sequence>153</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : navigateToUrl</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">25</property>
+  <property name="stepIndex">2</property>
+</record>
+<record>
+  <date>2018-07-09T15:20:25</date>
+  <millis>1531129825285</millis>
+  <sequence>154</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking url</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:25</date>
+  <millis>1531129825290</millis>
+  <sequence>155</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Navigating to &amp;apos;https://www.snapdeal.com/&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:28</date>
+  <millis>1531129828312</millis>
+  <sequence>156</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Navigate to &amp;apos;https://www.snapdeal.com/&amp;apos; successfully</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:28</date>
+  <millis>1531129828314</millis>
+  <sequence>157</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : navigateToUrl</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:28</date>
+  <millis>1531129828315</millis>
+  <sequence>158</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : waitForElementPresent</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">27</property>
+  <property name="stepIndex">3</property>
+</record>
+<record>
+  <date>2018-07-09T15:20:28</date>
+  <millis>1531129828315</millis>
+  <sequence>159</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding Test Object with id &amp;apos;Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/div_Sign In&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:28</date>
+  <millis>1531129828322</millis>
+  <sequence>160</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking object</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:28</date>
+  <millis>1531129828330</millis>
+  <sequence>161</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking timeout</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:28</date>
+  <millis>1531129828331</millis>
+  <sequence>162</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding web element with id: &amp;apos;Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/div_Sign In&amp;apos; located by &amp;apos;By.xpath: //div[(text() = &amp;apos;\n\t\t\t  \t\tSign In\n\t\t\t\t\t  \n\t\t\t\t\t  \t\t\n\t\t\t\t\t  \t\t\n\t\t\t\t\t  \n\t\t\t\t\t  \n\t\t\t\t\t  \n\t\t\t      \t\t\t\n\t\t\t      \t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tOrders\n\t\t\t\t\t\t\t\t\t\tShortlist\n\t\t\t\t\t\t\t\t\t\tSD Cash\n\t\t\t\t\t\t\t\t\t\tE-Gift Voucher\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tLogout\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tYour Account\n\t\t\t\t\t\t\t\t\t\tYour Orders\n\t\t\t\t\t\t\t\t\t\tShortlist\n\t\t\t\t\t\t\t\t\t\tSD Cash\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t \t\t\tIf you are a new user\n\t\t\t\t\t\t \t\t\tRegister\n\t\t\t\t\t\t \t\t\tlogin\n\t\t\t\t\t\t \t\t\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t    &amp;apos; or . = &amp;apos;\n\t\t\t  \t\tSign In\n\t\t\t\t\t  \n\t\t\t\t\t  \t\t\n\t\t\t\t\t  \t\t\n\t\t\t\t\t  \n\t\t\t\t\t  \n\t\t\t\t\t  \n\t\t\t      \t\t\t\n\t\t\t      \t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tOrders\n\t\t\t\t\t\t\t\t\t\tShortlist\n\t\t\t\t\t\t\t\t\t\tSD Cash\n\t\t\t\t\t\t\t\t\t\tE-Gift Voucher\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tLogout\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tYour Account\n\t\t\t\t\t\t\t\t\t\tYour Orders\n\t\t\t\t\t\t\t\t\t\tShortlist\n\t\t\t\t\t\t\t\t\t\tSD Cash\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t \t\t\tIf you are a new user\n\t\t\t\t\t\t \t\t\tRegister\n\t\t\t\t\t\t \t\t\tlogin\n\t\t\t\t\t\t \t\t\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t    &amp;apos;)]&amp;apos; in &amp;apos;10&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:28</date>
+  <millis>1531129828397</millis>
+  <sequence>163</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Found 1 web elements with id: &amp;apos;Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/div_Sign In&amp;apos; located by &amp;apos;By.xpath: //div[(text() = &amp;apos;\n\t\t\t  \t\tSign In\n\t\t\t\t\t  \n\t\t\t\t\t  \t\t\n\t\t\t\t\t  \t\t\n\t\t\t\t\t  \n\t\t\t\t\t  \n\t\t\t\t\t  \n\t\t\t      \t\t\t\n\t\t\t      \t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tOrders\n\t\t\t\t\t\t\t\t\t\tShortlist\n\t\t\t\t\t\t\t\t\t\tSD Cash\n\t\t\t\t\t\t\t\t\t\tE-Gift Voucher\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tLogout\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tYour Account\n\t\t\t\t\t\t\t\t\t\tYour Orders\n\t\t\t\t\t\t\t\t\t\tShortlist\n\t\t\t\t\t\t\t\t\t\tSD Cash\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t \t\t\tIf you are a new user\n\t\t\t\t\t\t \t\t\tRegister\n\t\t\t\t\t\t \t\t\tlogin\n\t\t\t\t\t\t \t\t\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t    &amp;apos; or . = &amp;apos;\n\t\t\t  \t\tSign In\n\t\t\t\t\t  \n\t\t\t\t\t  \t\t\n\t\t\t\t\t  \t\t\n\t\t\t\t\t  \n\t\t\t\t\t  \n\t\t\t\t\t  \n\t\t\t      \t\t\t\n\t\t\t      \t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tOrders\n\t\t\t\t\t\t\t\t\t\tShortlist\n\t\t\t\t\t\t\t\t\t\tSD Cash\n\t\t\t\t\t\t\t\t\t\tE-Gift Voucher\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tLogout\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tYour Account\n\t\t\t\t\t\t\t\t\t\tYour Orders\n\t\t\t\t\t\t\t\t\t\tShortlist\n\t\t\t\t\t\t\t\t\t\tSD Cash\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t \t\t\tIf you are a new user\n\t\t\t\t\t\t \t\t\tRegister\n\t\t\t\t\t\t \t\t\tlogin\n\t\t\t\t\t\t \t\t\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t    &amp;apos;)]&amp;apos; in &amp;apos;10&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:28</date>
+  <millis>1531129828400</millis>
+  <sequence>164</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object &amp;apos;Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/div_Sign In&amp;apos; is present</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:28</date>
+  <millis>1531129828401</millis>
+  <sequence>165</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : waitForElementPresent</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:28</date>
+  <millis>1531129828401</millis>
+  <sequence>166</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : verifyElementPresent</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">30</property>
+  <property name="stepIndex">4</property>
+</record>
+<record>
+  <date>2018-07-09T15:20:28</date>
+  <millis>1531129828402</millis>
+  <sequence>167</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding Test Object with id &amp;apos;Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/div_Sign In&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:28</date>
+  <millis>1531129828407</millis>
+  <sequence>168</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking object</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:28</date>
+  <millis>1531129828407</millis>
+  <sequence>169</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking timeout</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:28</date>
+  <millis>1531129828408</millis>
+  <sequence>170</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Timeout &amp;apos;0&amp;apos; is invalid. Using default page load timeout: &amp;apos;30&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:28</date>
+  <millis>1531129828408</millis>
+  <sequence>171</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding web element with id: &amp;apos;Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/div_Sign In&amp;apos; located by &amp;apos;By.xpath: //div[(text() = &amp;apos;\n\t\t\t  \t\tSign In\n\t\t\t\t\t  \n\t\t\t\t\t  \t\t\n\t\t\t\t\t  \t\t\n\t\t\t\t\t  \n\t\t\t\t\t  \n\t\t\t\t\t  \n\t\t\t      \t\t\t\n\t\t\t      \t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tOrders\n\t\t\t\t\t\t\t\t\t\tShortlist\n\t\t\t\t\t\t\t\t\t\tSD Cash\n\t\t\t\t\t\t\t\t\t\tE-Gift Voucher\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tLogout\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tYour Account\n\t\t\t\t\t\t\t\t\t\tYour Orders\n\t\t\t\t\t\t\t\t\t\tShortlist\n\t\t\t\t\t\t\t\t\t\tSD Cash\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t \t\t\tIf you are a new user\n\t\t\t\t\t\t \t\t\tRegister\n\t\t\t\t\t\t \t\t\tlogin\n\t\t\t\t\t\t \t\t\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t    &amp;apos; or . = &amp;apos;\n\t\t\t  \t\tSign In\n\t\t\t\t\t  \n\t\t\t\t\t  \t\t\n\t\t\t\t\t  \t\t\n\t\t\t\t\t  \n\t\t\t\t\t  \n\t\t\t\t\t  \n\t\t\t      \t\t\t\n\t\t\t      \t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tOrders\n\t\t\t\t\t\t\t\t\t\tShortlist\n\t\t\t\t\t\t\t\t\t\tSD Cash\n\t\t\t\t\t\t\t\t\t\tE-Gift Voucher\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tLogout\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tYour Account\n\t\t\t\t\t\t\t\t\t\tYour Orders\n\t\t\t\t\t\t\t\t\t\tShortlist\n\t\t\t\t\t\t\t\t\t\tSD Cash\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t \t\t\tIf you are a new user\n\t\t\t\t\t\t \t\t\tRegister\n\t\t\t\t\t\t \t\t\tlogin\n\t\t\t\t\t\t \t\t\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t    &amp;apos;)]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:29</date>
+  <millis>1531129829027</millis>
+  <sequence>172</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Found 1 web elements with id: &amp;apos;Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/div_Sign In&amp;apos; located by &amp;apos;By.xpath: //div[(text() = &amp;apos;\n\t\t\t  \t\tSign In\n\t\t\t\t\t  \n\t\t\t\t\t  \t\t\n\t\t\t\t\t  \t\t\n\t\t\t\t\t  \n\t\t\t\t\t  \n\t\t\t\t\t  \n\t\t\t      \t\t\t\n\t\t\t      \t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tOrders\n\t\t\t\t\t\t\t\t\t\tShortlist\n\t\t\t\t\t\t\t\t\t\tSD Cash\n\t\t\t\t\t\t\t\t\t\tE-Gift Voucher\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tLogout\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tYour Account\n\t\t\t\t\t\t\t\t\t\tYour Orders\n\t\t\t\t\t\t\t\t\t\tShortlist\n\t\t\t\t\t\t\t\t\t\tSD Cash\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t \t\t\tIf you are a new user\n\t\t\t\t\t\t \t\t\tRegister\n\t\t\t\t\t\t \t\t\tlogin\n\t\t\t\t\t\t \t\t\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t    &amp;apos; or . = &amp;apos;\n\t\t\t  \t\tSign In\n\t\t\t\t\t  \n\t\t\t\t\t  \t\t\n\t\t\t\t\t  \t\t\n\t\t\t\t\t  \n\t\t\t\t\t  \n\t\t\t\t\t  \n\t\t\t      \t\t\t\n\t\t\t      \t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tOrders\n\t\t\t\t\t\t\t\t\t\tShortlist\n\t\t\t\t\t\t\t\t\t\tSD Cash\n\t\t\t\t\t\t\t\t\t\tE-Gift Voucher\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tLogout\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tYour Account\n\t\t\t\t\t\t\t\t\t\tYour Orders\n\t\t\t\t\t\t\t\t\t\tShortlist\n\t\t\t\t\t\t\t\t\t\tSD Cash\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t \t\t\tIf you are a new user\n\t\t\t\t\t\t \t\t\tRegister\n\t\t\t\t\t\t \t\t\tlogin\n\t\t\t\t\t\t \t\t\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t    &amp;apos;)]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:29</date>
+  <millis>1531129829027</millis>
+  <sequence>173</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object &amp;apos;Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/div_Sign In&amp;apos; is present</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:29</date>
+  <millis>1531129829028</millis>
+  <sequence>174</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : verifyElementPresent</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:29</date>
+  <millis>1531129829028</millis>
+  <sequence>175</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">33</property>
+  <property name="stepIndex">5</property>
+</record>
+<record>
+  <date>2018-07-09T15:20:29</date>
+  <millis>1531129829029</millis>
+  <sequence>176</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding Test Object with id &amp;apos;Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/div_Sign In&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:29</date>
+  <millis>1531129829034</millis>
+  <sequence>177</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking object</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:29</date>
+  <millis>1531129829034</millis>
+  <sequence>178</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking timeout</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:29</date>
+  <millis>1531129829035</millis>
+  <sequence>179</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding web element with id: &amp;apos;Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/div_Sign In&amp;apos; located by &amp;apos;By.xpath: //div[(text() = &amp;apos;\n\t\t\t  \t\tSign In\n\t\t\t\t\t  \n\t\t\t\t\t  \t\t\n\t\t\t\t\t  \t\t\n\t\t\t\t\t  \n\t\t\t\t\t  \n\t\t\t\t\t  \n\t\t\t      \t\t\t\n\t\t\t      \t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tOrders\n\t\t\t\t\t\t\t\t\t\tShortlist\n\t\t\t\t\t\t\t\t\t\tSD Cash\n\t\t\t\t\t\t\t\t\t\tE-Gift Voucher\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tLogout\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tYour Account\n\t\t\t\t\t\t\t\t\t\tYour Orders\n\t\t\t\t\t\t\t\t\t\tShortlist\n\t\t\t\t\t\t\t\t\t\tSD Cash\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t \t\t\tIf you are a new user\n\t\t\t\t\t\t \t\t\tRegister\n\t\t\t\t\t\t \t\t\tlogin\n\t\t\t\t\t\t \t\t\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t    &amp;apos; or . = &amp;apos;\n\t\t\t  \t\tSign In\n\t\t\t\t\t  \n\t\t\t\t\t  \t\t\n\t\t\t\t\t  \t\t\n\t\t\t\t\t  \n\t\t\t\t\t  \n\t\t\t\t\t  \n\t\t\t      \t\t\t\n\t\t\t      \t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tOrders\n\t\t\t\t\t\t\t\t\t\tShortlist\n\t\t\t\t\t\t\t\t\t\tSD Cash\n\t\t\t\t\t\t\t\t\t\tE-Gift Voucher\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tLogout\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tYour Account\n\t\t\t\t\t\t\t\t\t\tYour Orders\n\t\t\t\t\t\t\t\t\t\tShortlist\n\t\t\t\t\t\t\t\t\t\tSD Cash\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t \t\t\tIf you are a new user\n\t\t\t\t\t\t \t\t\tRegister\n\t\t\t\t\t\t \t\t\tlogin\n\t\t\t\t\t\t \t\t\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t    &amp;apos;)]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:29</date>
+  <millis>1531129829173</millis>
+  <sequence>180</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Found 1 web elements with id: &amp;apos;Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/div_Sign In&amp;apos; located by &amp;apos;By.xpath: //div[(text() = &amp;apos;\n\t\t\t  \t\tSign In\n\t\t\t\t\t  \n\t\t\t\t\t  \t\t\n\t\t\t\t\t  \t\t\n\t\t\t\t\t  \n\t\t\t\t\t  \n\t\t\t\t\t  \n\t\t\t      \t\t\t\n\t\t\t      \t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tOrders\n\t\t\t\t\t\t\t\t\t\tShortlist\n\t\t\t\t\t\t\t\t\t\tSD Cash\n\t\t\t\t\t\t\t\t\t\tE-Gift Voucher\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tLogout\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tYour Account\n\t\t\t\t\t\t\t\t\t\tYour Orders\n\t\t\t\t\t\t\t\t\t\tShortlist\n\t\t\t\t\t\t\t\t\t\tSD Cash\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t \t\t\tIf you are a new user\n\t\t\t\t\t\t \t\t\tRegister\n\t\t\t\t\t\t \t\t\tlogin\n\t\t\t\t\t\t \t\t\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t    &amp;apos; or . = &amp;apos;\n\t\t\t  \t\tSign In\n\t\t\t\t\t  \n\t\t\t\t\t  \t\t\n\t\t\t\t\t  \t\t\n\t\t\t\t\t  \n\t\t\t\t\t  \n\t\t\t\t\t  \n\t\t\t      \t\t\t\n\t\t\t      \t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tOrders\n\t\t\t\t\t\t\t\t\t\tShortlist\n\t\t\t\t\t\t\t\t\t\tSD Cash\n\t\t\t\t\t\t\t\t\t\tE-Gift Voucher\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tLogout\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tYour Account\n\t\t\t\t\t\t\t\t\t\tYour Orders\n\t\t\t\t\t\t\t\t\t\tShortlist\n\t\t\t\t\t\t\t\t\t\tSD Cash\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t \t\t\tIf you are a new user\n\t\t\t\t\t\t \t\t\tRegister\n\t\t\t\t\t\t \t\t\tlogin\n\t\t\t\t\t\t \t\t\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t    &amp;apos;)]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:29</date>
+  <millis>1531129829174</millis>
+  <sequence>181</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Clicking on object: &amp;apos;Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/div_Sign In&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:29</date>
+  <millis>1531129829774</millis>
+  <sequence>182</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/div_Sign In&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:29</date>
+  <millis>1531129829775</millis>
+  <sequence>183</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:29</date>
+  <millis>1531129829775</millis>
+  <sequence>184</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : waitForElementPresent</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">35</property>
+  <property name="stepIndex">6</property>
+</record>
+<record>
+  <date>2018-07-09T15:20:29</date>
+  <millis>1531129829776</millis>
+  <sequence>185</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding Test Object with id &amp;apos;Object Repository/SD_Login_OR/Page_Online Shopping Site in India (1)/span_login&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:29</date>
+  <millis>1531129829782</millis>
+  <sequence>186</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking object</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:29</date>
+  <millis>1531129829783</millis>
+  <sequence>187</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking timeout</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:29</date>
+  <millis>1531129829784</millis>
+  <sequence>188</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding web element with id: &amp;apos;Object Repository/SD_Login_OR/Page_Online Shopping Site in India (1)/span_login&amp;apos; located by &amp;apos;By.xpath: id(\&amp;quot;sdHeader\&amp;quot;)/div[@class=\&amp;quot;headerBar reset-padding\&amp;quot;]/div[@class=\&amp;quot;topBar  top-bar-homepage  top-freeze-reference-point\&amp;quot;]/div[@class=\&amp;quot;header_wrapper\&amp;quot;]/div[@class=\&amp;quot;col-xs-5 reset-padding header-right rfloat\&amp;quot;]/div[@class=\&amp;quot;myAccountTab accountHeaderClass col-xs-13 reset-padding\&amp;quot;]/div[@class=\&amp;quot;accountInner accountHeadColor\&amp;quot;]/div[@class=\&amp;quot;dropdownWrapper\&amp;quot;]/div[@class=\&amp;quot;dropdownAccountNonLoggedIn\&amp;quot;]/div[@class=\&amp;quot;accountInfoNonLoggedIn\&amp;quot;]/span[@class=\&amp;quot;accountBtn btn rippleWhite\&amp;quot;][count(. | //span[(text() = &amp;apos;login&amp;apos; or . = &amp;apos;login&amp;apos;)]) = count(//span[(text() = &amp;apos;login&amp;apos; or . = &amp;apos;login&amp;apos;)])]&amp;apos; in &amp;apos;10&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:29</date>
+  <millis>1531129829817</millis>
+  <sequence>189</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Found 1 web elements with id: &amp;apos;Object Repository/SD_Login_OR/Page_Online Shopping Site in India (1)/span_login&amp;apos; located by &amp;apos;By.xpath: id(\&amp;quot;sdHeader\&amp;quot;)/div[@class=\&amp;quot;headerBar reset-padding\&amp;quot;]/div[@class=\&amp;quot;topBar  top-bar-homepage  top-freeze-reference-point\&amp;quot;]/div[@class=\&amp;quot;header_wrapper\&amp;quot;]/div[@class=\&amp;quot;col-xs-5 reset-padding header-right rfloat\&amp;quot;]/div[@class=\&amp;quot;myAccountTab accountHeaderClass col-xs-13 reset-padding\&amp;quot;]/div[@class=\&amp;quot;accountInner accountHeadColor\&amp;quot;]/div[@class=\&amp;quot;dropdownWrapper\&amp;quot;]/div[@class=\&amp;quot;dropdownAccountNonLoggedIn\&amp;quot;]/div[@class=\&amp;quot;accountInfoNonLoggedIn\&amp;quot;]/span[@class=\&amp;quot;accountBtn btn rippleWhite\&amp;quot;][count(. | //span[(text() = &amp;apos;login&amp;apos; or . = &amp;apos;login&amp;apos;)]) = count(//span[(text() = &amp;apos;login&amp;apos; or . = &amp;apos;login&amp;apos;)])]&amp;apos; in &amp;apos;10&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:29</date>
+  <millis>1531129829817</millis>
+  <sequence>190</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object &amp;apos;Object Repository/SD_Login_OR/Page_Online Shopping Site in India (1)/span_login&amp;apos; is present</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:29</date>
+  <millis>1531129829818</millis>
+  <sequence>191</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : waitForElementPresent</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:29</date>
+  <millis>1531129829818</millis>
+  <sequence>192</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : verifyElementPresent</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">37</property>
+  <property name="stepIndex">7</property>
+</record>
+<record>
+  <date>2018-07-09T15:20:29</date>
+  <millis>1531129829818</millis>
+  <sequence>193</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding Test Object with id &amp;apos;Object Repository/SD_Login_OR/Page_Online Shopping Site in India (1)/span_login&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:29</date>
+  <millis>1531129829821</millis>
+  <sequence>194</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking object</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:29</date>
+  <millis>1531129829822</millis>
+  <sequence>195</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking timeout</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:29</date>
+  <millis>1531129829822</millis>
+  <sequence>196</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Timeout &amp;apos;0&amp;apos; is invalid. Using default page load timeout: &amp;apos;30&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:29</date>
+  <millis>1531129829823</millis>
+  <sequence>197</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding web element with id: &amp;apos;Object Repository/SD_Login_OR/Page_Online Shopping Site in India (1)/span_login&amp;apos; located by &amp;apos;By.xpath: id(\&amp;quot;sdHeader\&amp;quot;)/div[@class=\&amp;quot;headerBar reset-padding\&amp;quot;]/div[@class=\&amp;quot;topBar  top-bar-homepage  top-freeze-reference-point\&amp;quot;]/div[@class=\&amp;quot;header_wrapper\&amp;quot;]/div[@class=\&amp;quot;col-xs-5 reset-padding header-right rfloat\&amp;quot;]/div[@class=\&amp;quot;myAccountTab accountHeaderClass col-xs-13 reset-padding\&amp;quot;]/div[@class=\&amp;quot;accountInner accountHeadColor\&amp;quot;]/div[@class=\&amp;quot;dropdownWrapper\&amp;quot;]/div[@class=\&amp;quot;dropdownAccountNonLoggedIn\&amp;quot;]/div[@class=\&amp;quot;accountInfoNonLoggedIn\&amp;quot;]/span[@class=\&amp;quot;accountBtn btn rippleWhite\&amp;quot;][count(. | //span[(text() = &amp;apos;login&amp;apos; or . = &amp;apos;login&amp;apos;)]) = count(//span[(text() = &amp;apos;login&amp;apos; or . = &amp;apos;login&amp;apos;)])]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:29</date>
+  <millis>1531129829878</millis>
+  <sequence>198</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Found 1 web elements with id: &amp;apos;Object Repository/SD_Login_OR/Page_Online Shopping Site in India (1)/span_login&amp;apos; located by &amp;apos;By.xpath: id(\&amp;quot;sdHeader\&amp;quot;)/div[@class=\&amp;quot;headerBar reset-padding\&amp;quot;]/div[@class=\&amp;quot;topBar  top-bar-homepage  top-freeze-reference-point\&amp;quot;]/div[@class=\&amp;quot;header_wrapper\&amp;quot;]/div[@class=\&amp;quot;col-xs-5 reset-padding header-right rfloat\&amp;quot;]/div[@class=\&amp;quot;myAccountTab accountHeaderClass col-xs-13 reset-padding\&amp;quot;]/div[@class=\&amp;quot;accountInner accountHeadColor\&amp;quot;]/div[@class=\&amp;quot;dropdownWrapper\&amp;quot;]/div[@class=\&amp;quot;dropdownAccountNonLoggedIn\&amp;quot;]/div[@class=\&amp;quot;accountInfoNonLoggedIn\&amp;quot;]/span[@class=\&amp;quot;accountBtn btn rippleWhite\&amp;quot;][count(. | //span[(text() = &amp;apos;login&amp;apos; or . = &amp;apos;login&amp;apos;)]) = count(//span[(text() = &amp;apos;login&amp;apos; or . = &amp;apos;login&amp;apos;)])]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:29</date>
+  <millis>1531129829879</millis>
+  <sequence>199</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object &amp;apos;Object Repository/SD_Login_OR/Page_Online Shopping Site in India (1)/span_login&amp;apos; is present</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:29</date>
+  <millis>1531129829879</millis>
+  <sequence>200</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : verifyElementPresent</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:29</date>
+  <millis>1531129829879</millis>
+  <sequence>201</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">39</property>
+  <property name="stepIndex">8</property>
+</record>
+<record>
+  <date>2018-07-09T15:20:29</date>
+  <millis>1531129829880</millis>
+  <sequence>202</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding Test Object with id &amp;apos;Object Repository/SD_Login_OR/Page_Online Shopping Site in India (1)/span_login&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:29</date>
+  <millis>1531129829892</millis>
+  <sequence>203</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking object</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:29</date>
+  <millis>1531129829892</millis>
+  <sequence>204</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking timeout</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:29</date>
+  <millis>1531129829893</millis>
+  <sequence>205</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding web element with id: &amp;apos;Object Repository/SD_Login_OR/Page_Online Shopping Site in India (1)/span_login&amp;apos; located by &amp;apos;By.xpath: id(\&amp;quot;sdHeader\&amp;quot;)/div[@class=\&amp;quot;headerBar reset-padding\&amp;quot;]/div[@class=\&amp;quot;topBar  top-bar-homepage  top-freeze-reference-point\&amp;quot;]/div[@class=\&amp;quot;header_wrapper\&amp;quot;]/div[@class=\&amp;quot;col-xs-5 reset-padding header-right rfloat\&amp;quot;]/div[@class=\&amp;quot;myAccountTab accountHeaderClass col-xs-13 reset-padding\&amp;quot;]/div[@class=\&amp;quot;accountInner accountHeadColor\&amp;quot;]/div[@class=\&amp;quot;dropdownWrapper\&amp;quot;]/div[@class=\&amp;quot;dropdownAccountNonLoggedIn\&amp;quot;]/div[@class=\&amp;quot;accountInfoNonLoggedIn\&amp;quot;]/span[@class=\&amp;quot;accountBtn btn rippleWhite\&amp;quot;][count(. | //span[(text() = &amp;apos;login&amp;apos; or . = &amp;apos;login&amp;apos;)]) = count(//span[(text() = &amp;apos;login&amp;apos; or . = &amp;apos;login&amp;apos;)])]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:29</date>
+  <millis>1531129829962</millis>
+  <sequence>206</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Found 1 web elements with id: &amp;apos;Object Repository/SD_Login_OR/Page_Online Shopping Site in India (1)/span_login&amp;apos; located by &amp;apos;By.xpath: id(\&amp;quot;sdHeader\&amp;quot;)/div[@class=\&amp;quot;headerBar reset-padding\&amp;quot;]/div[@class=\&amp;quot;topBar  top-bar-homepage  top-freeze-reference-point\&amp;quot;]/div[@class=\&amp;quot;header_wrapper\&amp;quot;]/div[@class=\&amp;quot;col-xs-5 reset-padding header-right rfloat\&amp;quot;]/div[@class=\&amp;quot;myAccountTab accountHeaderClass col-xs-13 reset-padding\&amp;quot;]/div[@class=\&amp;quot;accountInner accountHeadColor\&amp;quot;]/div[@class=\&amp;quot;dropdownWrapper\&amp;quot;]/div[@class=\&amp;quot;dropdownAccountNonLoggedIn\&amp;quot;]/div[@class=\&amp;quot;accountInfoNonLoggedIn\&amp;quot;]/span[@class=\&amp;quot;accountBtn btn rippleWhite\&amp;quot;][count(. | //span[(text() = &amp;apos;login&amp;apos; or . = &amp;apos;login&amp;apos;)]) = count(//span[(text() = &amp;apos;login&amp;apos; or . = &amp;apos;login&amp;apos;)])]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:29</date>
+  <millis>1531129829966</millis>
+  <sequence>207</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Clicking on object: &amp;apos;Object Repository/SD_Login_OR/Page_Online Shopping Site in India (1)/span_login&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:30</date>
+  <millis>1531129830308</millis>
+  <sequence>208</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/SD_Login_OR/Page_Online Shopping Site in India (1)/span_login&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:30</date>
+  <millis>1531129830309</millis>
+  <sequence>209</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:30</date>
+  <millis>1531129830309</millis>
+  <sequence>210</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : setText</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">41</property>
+  <property name="stepIndex">9</property>
+</record>
+<record>
+  <date>2018-07-09T15:20:30</date>
+  <millis>1531129830311</millis>
+  <sequence>211</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding Test Object with id &amp;apos;Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/Page_Online Shopping Site in India/input_username&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:30</date>
+  <millis>1531129830319</millis>
+  <sequence>212</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding Test Object with id &amp;apos;Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/Page_Online Shopping Site in India/iframe_iframeLogin&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:30</date>
+  <millis>1531129830326</millis>
+  <sequence>213</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking object</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:30</date>
+  <millis>1531129830326</millis>
+  <sequence>214</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking text</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:30</date>
+  <millis>1531129830326</millis>
+  <sequence>215</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/Page_Online Shopping Site in India/input_username&amp;apos; has parent object(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:30</date>
+  <millis>1531129830327</millis>
+  <sequence>216</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Switching to iframe: &amp;apos;Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/Page_Online Shopping Site in India/iframe_iframeLogin&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:30</date>
+  <millis>1531129830327</millis>
+  <sequence>217</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking timeout</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:30</date>
+  <millis>1531129830328</millis>
+  <sequence>218</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding web element with id: &amp;apos;Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/Page_Online Shopping Site in India/iframe_iframeLogin&amp;apos; located by &amp;apos;By.xpath: //iframe[@id = &amp;apos;loginIframe&amp;apos; and @src = &amp;apos;https://www.snapdeal.com:443/iframeLogin#https://www.snapdeal.com/&amp;apos; and @name = &amp;apos;iframeLogin&amp;apos;]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:30</date>
+  <millis>1531129830371</millis>
+  <sequence>219</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Found 1 web elements with id: &amp;apos;Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/Page_Online Shopping Site in India/iframe_iframeLogin&amp;apos; located by &amp;apos;By.xpath: //iframe[@id = &amp;apos;loginIframe&amp;apos; and @src = &amp;apos;https://www.snapdeal.com:443/iframeLogin#https://www.snapdeal.com/&amp;apos; and @name = &amp;apos;iframeLogin&amp;apos;]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:30</date>
+  <millis>1531129830467</millis>
+  <sequence>220</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Switched to iframe: &amp;apos;Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/Page_Online Shopping Site in India/iframe_iframeLogin&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:30</date>
+  <millis>1531129830467</millis>
+  <sequence>221</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Checking timeout</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:30</date>
+  <millis>1531129830468</millis>
+  <sequence>222</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding web element with id: &amp;apos;Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/Page_Online Shopping Site in India/input_username&amp;apos; located by &amp;apos;By.xpath: //input[@type = &amp;apos;text&amp;apos; and @placeholder = &amp;apos;Mobile Number/ Email&amp;apos; and @name = &amp;apos;username&amp;apos; and @id = &amp;apos;userName&amp;apos;]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:30</date>
+  <millis>1531129830509</millis>
+  <sequence>223</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Found 1 web elements with id: &amp;apos;Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/Page_Online Shopping Site in India/input_username&amp;apos; located by &amp;apos;By.xpath: //input[@type = &amp;apos;text&amp;apos; and @placeholder = &amp;apos;Mobile Number/ Email&amp;apos; and @name = &amp;apos;username&amp;apos; and @id = &amp;apos;userName&amp;apos;]&amp;apos; in &amp;apos;30&amp;apos; second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:30</date>
+  <millis>1531129830509</millis>
+  <sequence>224</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Clearing text of object &amp;apos;Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/Page_Online Shopping Site in India/input_username&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:30</date>
+  <millis>1531129830558</millis>
+  <sequence>225</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Switching to default content</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:30</date>
+  <millis>1531129830825</millis>
+  <sequence>226</sequence>
+  <level>FAILED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Unable to set text &amp;apos;9958571972&amp;apos; of object &amp;apos;Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/Page_Online Shopping Site in India/input_username&amp;apos; (Root cause: org.openqa.selenium.ElementNotInteractableException: Element &amp;lt;input id=\&amp;quot;userName\&amp;quot; class=\&amp;quot;col-xs-24\&amp;quot; name=\&amp;quot;username\&amp;quot; type=\&amp;quot;text\&amp;quot;&amp;gt; could not be scrolled into view\nBuild info: version: &amp;apos;3.7.1&amp;apos;, revision: &amp;apos;8a0099a&amp;apos;, time: &amp;apos;2017-11-06T21:07:36.161Z&amp;apos;\nSystem info: host: &amp;apos;L-15S7152&amp;apos;, ip: &amp;apos;10.20.86.19&amp;apos;, os.name: &amp;apos;Windows 7&amp;apos;, os.arch: &amp;apos;amd64&amp;apos;, os.version: &amp;apos;6.1&amp;apos;, java.version: &amp;apos;1.8.0_102&amp;apos;\nDriver info: com.kms.katalon.core.webui.driver.firefox.CGeckoDriver\nCapabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 62.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 10596, moz:profile: C:\\Users\\kartik.sehgal.in\\A..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 6.1, proxy: Proxy(direct), rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}\nSession ID: f262a531-9608-48d9-a91e-2c36931f7fb7)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="attachment">1531129830572.png</property>
+</record>
+<record>
+  <date>2018-07-09T15:20:30</date>
+  <millis>1531129830825</millis>
+  <sequence>227</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : setText</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:30</date>
+  <millis>1531129830826</millis>
+  <sequence>228</sequence>
+  <logger>com.kms.katalon.core.logging.KeywordLogger</logger>
+  <level>FAILED</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test Cases/Snapdeal Web Page FAILED because (of) Unable to set text &amp;apos;9958571972&amp;apos; of object &amp;apos;Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/Page_Online Shopping Site in India/input_username&amp;apos; (Root cause: org.openqa.selenium.ElementNotInteractableException: Element &amp;lt;input id=\&amp;quot;userName\&amp;quot; class=\&amp;quot;col-xs-24\&amp;quot; name=\&amp;quot;username\&amp;quot; type=\&amp;quot;text\&amp;quot;&amp;gt; could not be scrolled into view\nBuild info: version: &amp;apos;3.7.1&amp;apos;, revision: &amp;apos;8a0099a&amp;apos;, time: &amp;apos;2017-11-06T21:07:36.161Z&amp;apos;\nSystem info: host: &amp;apos;L-15S7152&amp;apos;, ip: &amp;apos;10.20.86.19&amp;apos;, os.name: &amp;apos;Windows 7&amp;apos;, os.arch: &amp;apos;amd64&amp;apos;, os.version: &amp;apos;6.1&amp;apos;, java.version: &amp;apos;1.8.0_102&amp;apos;\nDriver info: com.kms.katalon.core.webui.driver.firefox.CGeckoDriver\nCapabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 62.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 10596, moz:profile: C:\\Users\\kartik.sehgal.in\\A..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 6.1, proxy: Proxy(direct), rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}\nSession ID: f262a531-9608-48d9-a91e-2c36931f7fb7)</message>
+  <exception>
+    <message>com.kms.katalon.core.exception.StepFailedException: Unable to set text '9958571972' of object 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/Page_Online Shopping Site in India/input_username' (Root cause: org.openqa.selenium.ElementNotInteractableException: Element &lt;input id="userName" class="col-xs-24" name="username" type="text"&gt; could not be scrolled into view
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'L-15S7152', ip: '10.20.86.19', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.core.webui.driver.firefox.CGeckoDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 62.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 10596, moz:profile: C:\Users\kartik.sehgal.in\A..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 6.1, proxy: Proxy(direct), rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: f262a531-9608-48d9-a91e-2c36931f7fb7)</message>
+    <frame>
+      <class>com.kms.katalon.core.keyword.internal.KeywordMain</class>
+      <method>stepFailed</method>
+      <line>36</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain</class>
+      <method>stepFailed</method>
+      <line>65</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain</class>
+      <method>runKeyword</method>
+      <line>27</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword</class>
+      <method>setText</method>
+      <line>65</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword</class>
+      <method>execute</method>
+      <line>37</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.keyword.internal.KeywordExecutor</class>
+      <method>executeKeywordForPlatform</method>
+      <line>53</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords</class>
+      <method>setText</method>
+      <line>950</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$setText$4</class>
+      <method>call</method>
+    </frame>
+    <frame>
+      <class>Script1531114267591</class>
+      <method>run</method>
+      <line>41</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.ScriptEngine</class>
+      <method>run</method>
+      <line>183</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.ScriptEngine</class>
+      <method>runScriptAsRawText</method>
+      <line>108</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>runScript</method>
+      <line>295</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>doExecute</method>
+      <line>286</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>processExecutionPhase</method>
+      <line>265</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>accessMainPhase</method>
+      <line>257</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>execute</method>
+      <line>201</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestSuiteExecutor</class>
+      <method>accessTestCaseMainPhase</method>
+      <line>129</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestSuiteExecutor</class>
+      <method>accessTestSuiteMainPhase</method>
+      <line>112</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestSuiteExecutor</class>
+      <method>execute</method>
+      <line>81</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseMain</class>
+      <method>startTestSuite</method>
+      <line>106</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseMain$startTestSuite$0</class>
+      <method>call</method>
+    </frame>
+    <frame>
+      <class>org.codehaus.groovy.runtime.callsite.CallSiteArray</class>
+      <method>defaultCall</method>
+      <line>48</line>
+    </frame>
+    <frame>
+      <class>org.codehaus.groovy.runtime.callsite.AbstractCallSite</class>
+      <method>call</method>
+      <line>113</line>
+    </frame>
+    <frame>
+      <class>org.codehaus.groovy.runtime.callsite.AbstractCallSite</class>
+      <method>call</method>
+      <line>141</line>
+    </frame>
+    <frame>
+      <class>TempTestSuite1531129805218</class>
+      <method>run</method>
+      <line>35</line>
+    </frame>
+    <frame>
+      <class>groovy.lang.GroovyShell</class>
+      <method>runScriptOrMainOrTestOrRunnable</method>
+      <line>263</line>
+    </frame>
+    <frame>
+      <class>groovy.lang.GroovyShell</class>
+      <method>run</method>
+      <line>518</line>
+    </frame>
+    <frame>
+      <class>groovy.lang.GroovyShell</class>
+      <method>run</method>
+      <line>507</line>
+    </frame>
+    <frame>
+      <class>groovy.ui.GroovyMain</class>
+      <method>processOnce</method>
+      <line>653</line>
+    </frame>
+    <frame>
+      <class>groovy.ui.GroovyMain</class>
+      <method>run</method>
+      <line>384</line>
+    </frame>
+    <frame>
+      <class>groovy.ui.GroovyMain</class>
+      <method>process</method>
+      <line>370</line>
+    </frame>
+    <frame>
+      <class>groovy.ui.GroovyMain</class>
+      <method>processArgs</method>
+      <line>129</line>
+    </frame>
+    <frame>
+      <class>groovy.ui.GroovyMain</class>
+      <method>main</method>
+      <line>109</line>
+    </frame>
+    <frame>
+      <class>sun.reflect.NativeMethodAccessorImpl</class>
+      <method>invoke0</method>
+    </frame>
+    <frame>
+      <class>sun.reflect.NativeMethodAccessorImpl</class>
+      <method>invoke</method>
+      <line>62</line>
+    </frame>
+    <frame>
+      <class>sun.reflect.DelegatingMethodAccessorImpl</class>
+      <method>invoke</method>
+      <line>43</line>
+    </frame>
+    <frame>
+      <class>java.lang.reflect.Method</class>
+      <method>invoke</method>
+      <line>498</line>
+    </frame>
+    <frame>
+      <class>org.codehaus.groovy.tools.GroovyStarter</class>
+      <method>rootLoader</method>
+      <line>109</line>
+    </frame>
+    <frame>
+      <class>org.codehaus.groovy.tools.GroovyStarter</class>
+      <method>main</method>
+      <line>131</line>
+    </frame>
+  </exception>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:30</date>
+  <millis>1531129830843</millis>
+  <sequence>229</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endTest</method>
+  <thread>1</thread>
+  <message>End Test Case : Test Cases/Snapdeal Web Page</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2018-07-09T15:20:31</date>
+  <millis>1531129831203</millis>
+  <sequence>230</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.KeywordLogger</class>
+  <method>endSuite</method>
+  <thread>1</thread>
+  <message>End Test Suite : Test Suites/Snapdeal Web Page</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+</log>

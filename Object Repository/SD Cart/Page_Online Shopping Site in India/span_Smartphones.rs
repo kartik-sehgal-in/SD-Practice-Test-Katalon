@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Smartphones</name>
+   <tag></tag>
+   <elementGuidId>74f2c8a2-314d-427a-8078-abddf5e8b982</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>linkTest</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Smartphones</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;category2Data&quot;)/div[@class=&quot;leftData colDataBlk&quot;]/div[@class=&quot;colDataSection noBorder&quot;]/div[@class=&quot;colDataInnerBlk&quot;]/p[2]/a[@class=&quot;rightMenuLink  noHasTagWidth dp-widget-link visibleRgtBlkLnk&quot;]/span[@class=&quot;linkTest&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,20 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Snapdeal Web Page,Firefox 62.0,,2018-07-09 17:35:09,2018-07-09 17:36:53,1m - 44.773s,FAILED
+,,,,,,
+Test Cases/Snapdeal Web Page,Firefox 62.0,,2018-07-09 17:35:09,2018-07-09 17:36:02,53.032s,FAILED
+openBrowser,Firefox 62.0,,2018-07-09 17:35:09,2018-07-09 17:35:15,6.236s,PASSED
+navigateToUrl,Firefox 62.0,,2018-07-09 17:35:15,2018-07-09 17:35:18,2.671s,PASSED
+waitForElementPresent,Firefox 62.0,,2018-07-09 17:35:18,2018-07-09 17:35:18,0.332s,PASSED
+verifyElementPresent,Firefox 62.0,,2018-07-09 17:35:18,2018-07-09 17:35:18,0.097s,PASSED
+click,Firefox 62.0,,2018-07-09 17:35:18,2018-07-09 17:35:20,1.436s,PASSED
+waitForElementPresent,Firefox 62.0,,2018-07-09 17:35:20,2018-07-09 17:35:30,10.411s,PASSED
+verifyElementPresent,Firefox 62.0,,2018-07-09 17:35:30,2018-07-09 17:36:02,31.518s,FAILED
+,,,,,,
+Test Cases/Snapdeal Web Page,Firefox 62.0,,2018-07-09 17:36:02,2018-07-09 17:36:53,50.908s,FAILED
+openBrowser,Firefox 62.0,,2018-07-09 17:36:02,2018-07-09 17:36:07,4.893s,PASSED
+navigateToUrl,Firefox 62.0,,2018-07-09 17:36:07,2018-07-09 17:36:10,2.975s,PASSED
+waitForElementPresent,Firefox 62.0,,2018-07-09 17:36:10,2018-07-09 17:36:10,0.110s,PASSED
+verifyElementPresent,Firefox 62.0,,2018-07-09 17:36:10,2018-07-09 17:36:10,0.373s,PASSED
+click,Firefox 62.0,,2018-07-09 17:36:10,2018-07-09 17:36:11,0.703s,PASSED
+waitForElementPresent,Firefox 62.0,,2018-07-09 17:36:11,2018-07-09 17:36:21,10.380s,PASSED
+verifyElementPresent,Firefox 62.0,,2018-07-09 17:36:21,2018-07-09 17:36:53,31.435s,FAILED

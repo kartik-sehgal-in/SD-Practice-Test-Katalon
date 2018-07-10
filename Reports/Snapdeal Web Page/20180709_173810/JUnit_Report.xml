@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Snapdeal Web Page" time="27" tests="0" failures="2" errors="0">
+   <testsuite name="Snapdeal Web Page" tests="0" failures="2" errors="0" time="27" timestamp="2018-07-09 17:38:12" hostname="kartik.sehgal.in - L-15S7152.jasperindia.local" id="Test Suites/Snapdeal Web Page">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\kartik.sehgal.in\\Katalon Studio\\SD\\Reports\\Snapdeal Web Page\\20180709_173810"/>
+         <property name="logFiles" value="C:\\Users\\kartik.sehgal.in\\Katalon Studio\\SD\\Reports\\Snapdeal Web Page\\20180709_173810\\execution0.log"/>
+         <property name="attachments" value="C:\\Users\\kartik.sehgal.in\\Katalon Studio\\SD\\Reports\\Snapdeal Web Page\\20180709_173810\\1531138101445.png, C:\\Users\\kartik.sehgal.in\\Katalon Studio\\SD\\Reports\\Snapdeal Web Page\\20180709_173810\\1531138118472.png"/>
+         <property name="hostName" value="kartik.sehgal.in - L-15S7152.jasperindia.local"/>
+         <property name="os" value="Windows 7 64bit"/>
+         <property name="katalonVersion" value="5.4.2.1"/>
+         <property name="browser" value="Chrome 67.0.3396.99"/>
+         <property name="hostAddress" value="10.20.86.19"/>
+         <property name="sessionId" value="2c47b9166f13fb18e2016ae6954f5513"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 7"/>
+      </properties>
+      <testcase name="Test Cases/Snapdeal Web Page" classname="Test Cases/Snapdeal Web Page" status="FAILED">
+         <failure type="FAILED" message="Unable to set text '9654421103' of object 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/Page_Online Shopping Site in India/input_username' (Root cause: org.openqa.selenium.InvalidElementStateException: invalid element state: Element is not currently interactable and may not be manipulated
+  (Session info: chrome=67.0.3396.99)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'L-15S7152', ip: '10.20.86.19', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.35.528161 (5b82f2d2aae0ca..., userDataDir: C:\Users\KARTIK~1.IN\AppDat...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 67.0.3396.99, webStorageEnabled: true}
+Session ID: 5c9af744a57d7a82fb87c2311930b92a)"/>
+         <system-out><![CDATA[2018-07-09 17:38:12 - [TEST_CASE][FAILED] - Test Cases/Snapdeal Web Page: Test Cases/Snapdeal Web Page FAILED because (of) Unable to set text '9654421103' of object 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/Page_Online Shopping Site in India/input_username' (Root cause: org.openqa.selenium.InvalidElementStateException: invalid element state: Element is not currently interactable and may not be manipulated
+  (Session info: chrome=67.0.3396.99)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'L-15S7152', ip: '10.20.86.19', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.35.528161 (5b82f2d2aae0ca..., userDataDir: C:\Users\KARTIK~1.IN\AppDat...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 67.0.3396.99, webStorageEnabled: true}
+Session ID: 5c9af744a57d7a82fb87c2311930b92a)
+
+2018-07-09 17:38:13 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-07-09 17:38:16 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-07-09 17:38:16 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://www.snapdeal.com/' successfully
+
+2018-07-09 17:38:20 - [MESSAGE][PASSED] - Navigate to 'https://www.snapdeal.com/' successfully
+
+2018-07-09 17:38:20 - [TEST_STEP][PASSED] - waitForElementPresent: Object 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/div_Sign In' is present
+
+2018-07-09 17:38:20 - [MESSAGE][PASSED] - Object 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/div_Sign In' is present
+
+2018-07-09 17:38:20 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/div_Sign In' is present
+
+2018-07-09 17:38:20 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-07-09 17:38:20 - [MESSAGE][PASSED] - Object 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/div_Sign In' is present
+
+2018-07-09 17:38:20 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/div_Sign In' is clicked on
+
+2018-07-09 17:38:20 - [MESSAGE][PASSED] - Object: 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/div_Sign In' is clicked on
+
+2018-07-09 17:38:20 - [TEST_STEP][PASSED] - waitForElementPresent: Object 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India (1)/span_login' is present
+
+2018-07-09 17:38:20 - [MESSAGE][PASSED] - Object 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India (1)/span_login' is present
+
+2018-07-09 17:38:20 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India (1)/span_login' is present
+
+2018-07-09 17:38:20 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-07-09 17:38:21 - [MESSAGE][PASSED] - Object 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India (1)/span_login' is present
+
+2018-07-09 17:38:21 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India (1)/span_login' is clicked on
+
+2018-07-09 17:38:21 - [MESSAGE][PASSED] - Object: 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India (1)/span_login' is clicked on
+
+2018-07-09 17:38:21 - [TEST_STEP][PASSED] - waitForElementPresent: Object 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India (1)/input_username' is present
+
+2018-07-09 17:38:21 - [MESSAGE][PASSED] - Object 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India (1)/input_username' is present
+
+2018-07-09 17:38:21 - [TEST_STEP][FAILED] - setText: Unable to set text '9654421103' of object 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/Page_Online Shopping Site in India/input_username' (Root cause: org.openqa.selenium.InvalidElementStateException: invalid element state: Element is not currently interactable and may not be manipulated
+  (Session info: chrome=67.0.3396.99)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'L-15S7152', ip: '10.20.86.19', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.35.528161 (5b82f2d2aae0ca..., userDataDir: C:\Users\KARTIK~1.IN\AppDat...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 67.0.3396.99, webStorageEnabled: true}
+Session ID: 5c9af744a57d7a82fb87c2311930b92a)
+
+2018-07-09 17:38:21 - [MESSAGE][FAILED] - Unable to set text '9654421103' of object 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/Page_Online Shopping Site in India/input_username' (Root cause: org.openqa.selenium.InvalidElementStateException: invalid element state: Element is not currently interactable and may not be manipulated
+  (Session info: chrome=67.0.3396.99)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'L-15S7152', ip: '10.20.86.19', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.35.528161 (5b82f2d2aae0ca..., userDataDir: C:\Users\KARTIK~1.IN\AppDat...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 67.0.3396.99, webStorageEnabled: true}
+Session ID: 5c9af744a57d7a82fb87c2311930b92a)
+[[ATTACHMENT|C:\\Users\\kartik.sehgal.in\\Katalon Studio\\SD\\Reports\\Snapdeal Web Page\\20180709_173810\\1531138101445.png]]]]></system-out>
+         <system-err><![CDATA[2018-07-09 17:38:12 - [TEST_CASE][FAILED] - Test Cases/Snapdeal Web Page: Test Cases/Snapdeal Web Page FAILED because (of) Unable to set text '9654421103' of object 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/Page_Online Shopping Site in India/input_username' (Root cause: org.openqa.selenium.InvalidElementStateException: invalid element state: Element is not currently interactable and may not be manipulated
+  (Session info: chrome=67.0.3396.99)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'L-15S7152', ip: '10.20.86.19', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.35.528161 (5b82f2d2aae0ca..., userDataDir: C:\Users\KARTIK~1.IN\AppDat...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 67.0.3396.99, webStorageEnabled: true}
+Session ID: 5c9af744a57d7a82fb87c2311930b92a)]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Snapdeal Web Page" classname="Test Cases/Snapdeal Web Page" status="FAILED">
+         <failure type="FAILED" message="Unable to set text '9958571972' of object 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/Page_Online Shopping Site in India/input_username' (Root cause: org.openqa.selenium.InvalidElementStateException: invalid element state: Element is not currently interactable and may not be manipulated
+  (Session info: chrome=67.0.3396.99)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'L-15S7152', ip: '10.20.86.19', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.35.528161 (5b82f2d2aae0ca..., userDataDir: C:\Users\KARTIK~1.IN\AppDat...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 67.0.3396.99, webStorageEnabled: true}
+Session ID: 2c47b9166f13fb18e2016ae6954f5513)"/>
+         <system-out><![CDATA[2018-07-09 17:38:21 - [TEST_CASE][FAILED] - Test Cases/Snapdeal Web Page: Test Cases/Snapdeal Web Page FAILED because (of) Unable to set text '9958571972' of object 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/Page_Online Shopping Site in India/input_username' (Root cause: org.openqa.selenium.InvalidElementStateException: invalid element state: Element is not currently interactable and may not be manipulated
+  (Session info: chrome=67.0.3396.99)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'L-15S7152', ip: '10.20.86.19', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.35.528161 (5b82f2d2aae0ca..., userDataDir: C:\Users\KARTIK~1.IN\AppDat...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 67.0.3396.99, webStorageEnabled: true}
+Session ID: 2c47b9166f13fb18e2016ae6954f5513)
+
+2018-07-09 17:38:21 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-07-09 17:38:21 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2018-07-09 17:38:24 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-07-09 17:38:24 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://www.snapdeal.com/' successfully
+
+2018-07-09 17:38:27 - [MESSAGE][PASSED] - Navigate to 'https://www.snapdeal.com/' successfully
+
+2018-07-09 17:38:27 - [TEST_STEP][PASSED] - waitForElementPresent: Object 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/div_Sign In' is present
+
+2018-07-09 17:38:27 - [MESSAGE][PASSED] - Object 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/div_Sign In' is present
+
+2018-07-09 17:38:27 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/div_Sign In' is present
+
+2018-07-09 17:38:27 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-07-09 17:38:27 - [MESSAGE][PASSED] - Object 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/div_Sign In' is present
+
+2018-07-09 17:38:27 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/div_Sign In' is clicked on
+
+2018-07-09 17:38:32 - [MESSAGE][PASSED] - Object: 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/div_Sign In' is clicked on
+
+2018-07-09 17:38:32 - [TEST_STEP][PASSED] - waitForElementPresent: Object 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India (1)/span_login' is present
+
+2018-07-09 17:38:33 - [MESSAGE][PASSED] - Object 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India (1)/span_login' is present
+
+2018-07-09 17:38:33 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India (1)/span_login' is present
+
+2018-07-09 17:38:33 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-07-09 17:38:33 - [MESSAGE][PASSED] - Object 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India (1)/span_login' is present
+
+2018-07-09 17:38:33 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India (1)/span_login' is clicked on
+
+2018-07-09 17:38:38 - [MESSAGE][PASSED] - Object: 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India (1)/span_login' is clicked on
+
+2018-07-09 17:38:38 - [TEST_STEP][PASSED] - waitForElementPresent: Object 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India (1)/input_username' is present
+
+2018-07-09 17:38:38 - [MESSAGE][PASSED] - Object 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India (1)/input_username' is present
+
+2018-07-09 17:38:38 - [TEST_STEP][FAILED] - setText: Unable to set text '9958571972' of object 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/Page_Online Shopping Site in India/input_username' (Root cause: org.openqa.selenium.InvalidElementStateException: invalid element state: Element is not currently interactable and may not be manipulated
+  (Session info: chrome=67.0.3396.99)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'L-15S7152', ip: '10.20.86.19', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.35.528161 (5b82f2d2aae0ca..., userDataDir: C:\Users\KARTIK~1.IN\AppDat...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 67.0.3396.99, webStorageEnabled: true}
+Session ID: 2c47b9166f13fb18e2016ae6954f5513)
+
+2018-07-09 17:38:39 - [MESSAGE][FAILED] - Unable to set text '9958571972' of object 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/Page_Online Shopping Site in India/input_username' (Root cause: org.openqa.selenium.InvalidElementStateException: invalid element state: Element is not currently interactable and may not be manipulated
+  (Session info: chrome=67.0.3396.99)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'L-15S7152', ip: '10.20.86.19', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.35.528161 (5b82f2d2aae0ca..., userDataDir: C:\Users\KARTIK~1.IN\AppDat...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 67.0.3396.99, webStorageEnabled: true}
+Session ID: 2c47b9166f13fb18e2016ae6954f5513)
+[[ATTACHMENT|C:\\Users\\kartik.sehgal.in\\Katalon Studio\\SD\\Reports\\Snapdeal Web Page\\20180709_173810\\1531138118472.png]]]]></system-out>
+         <system-err><![CDATA[2018-07-09 17:38:21 - [TEST_CASE][FAILED] - Test Cases/Snapdeal Web Page: Test Cases/Snapdeal Web Page FAILED because (of) Unable to set text '9958571972' of object 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/Page_Online Shopping Site in India/input_username' (Root cause: org.openqa.selenium.InvalidElementStateException: invalid element state: Element is not currently interactable and may not be manipulated
+  (Session info: chrome=67.0.3396.99)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'L-15S7152', ip: '10.20.86.19', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.35.528161 (5b82f2d2aae0ca..., userDataDir: C:\Users\KARTIK~1.IN\AppDat...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 67.0.3396.99, webStorageEnabled: true}
+Session ID: 2c47b9166f13fb18e2016ae6954f5513)]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-07-09 17:38:12 - [TEST_SUITE][FAILED] - Snapdeal Web Page: Test Cases/Snapdeal Web Page FAILED because (of) Unable to set text '9654421103' of object 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/Page_Online Shopping Site in India/input_username' (Root cause: org.openqa.selenium.InvalidElementStateException: invalid element state: Element is not currently interactable and may not be manipulated
+  (Session info: chrome=67.0.3396.99)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'L-15S7152', ip: '10.20.86.19', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.35.528161 (5b82f2d2aae0ca..., userDataDir: C:\Users\KARTIK~1.IN\AppDat...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 67.0.3396.99, webStorageEnabled: true}
+Session ID: 5c9af744a57d7a82fb87c2311930b92a)]]></system-out>
+      <system-err><![CDATA[2018-07-09 17:38:12 - [TEST_SUITE][FAILED] - Snapdeal Web Page: Test Cases/Snapdeal Web Page FAILED because (of) Unable to set text '9654421103' of object 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/Page_Online Shopping Site in India/input_username' (Root cause: org.openqa.selenium.InvalidElementStateException: invalid element state: Element is not currently interactable and may not be manipulated
+  (Session info: chrome=67.0.3396.99)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'L-15S7152', ip: '10.20.86.19', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.35.528161 (5b82f2d2aae0ca..., userDataDir: C:\Users\KARTIK~1.IN\AppDat...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 67.0.3396.99, webStorageEnabled: true}
+Session ID: 5c9af744a57d7a82fb87c2311930b92a)]]></system-err>
+   </testsuite>
+</testsuites>

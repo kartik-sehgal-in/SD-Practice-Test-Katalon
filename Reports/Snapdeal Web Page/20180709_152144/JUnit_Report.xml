@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Snapdeal Web Page" time="24" tests="2" failures="0" errors="0">
+   <testsuite name="Snapdeal Web Page" tests="2" failures="0" errors="0" time="24" timestamp="2018-07-09 15:21:45" hostname="kartik.sehgal.in - L-15S7152.jasperindia.local" id="Test Suites/Snapdeal Web Page">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\kartik.sehgal.in\\Katalon Studio\\SD\\Reports\\Snapdeal Web Page\\20180709_152144"/>
+         <property name="logFiles" value="C:\\Users\\kartik.sehgal.in\\Katalon Studio\\SD\\Reports\\Snapdeal Web Page\\20180709_152144\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="kartik.sehgal.in - L-15S7152.jasperindia.local"/>
+         <property name="os" value="Windows 7 64bit"/>
+         <property name="katalonVersion" value="5.4.2.1"/>
+         <property name="browser" value="Firefox 62.0"/>
+         <property name="hostAddress" value="10.20.86.19"/>
+         <property name="sessionId" value="dd299c88-ed3c-4a5c-b92d-3cb05c71491f"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 7"/>
+      </properties>
+      <testcase name="Test Cases/Snapdeal Web Page" classname="Test Cases/Snapdeal Web Page" status="PASSED">
+         <system-out><![CDATA[2018-07-09 15:21:45 - [TEST_CASE][PASSED] - Test Cases/Snapdeal Web Page: Test Cases/Snapdeal Web Page
+
+2018-07-09 15:21:46 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-07-09 15:21:52 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-07-09 15:21:52 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://www.snapdeal.com/' successfully
+
+2018-07-09 15:21:54 - [MESSAGE][PASSED] - Navigate to 'https://www.snapdeal.com/' successfully
+
+2018-07-09 15:21:54 - [TEST_STEP][PASSED] - waitForElementPresent: Object 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/div_Sign In' is present
+
+2018-07-09 15:21:55 - [MESSAGE][PASSED] - Object 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/div_Sign In' is present
+
+2018-07-09 15:21:55 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/div_Sign In' is present
+
+2018-07-09 15:21:55 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-07-09 15:21:55 - [MESSAGE][PASSED] - Object 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/div_Sign In' is present
+
+2018-07-09 15:21:55 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/div_Sign In' is clicked on
+
+2018-07-09 15:21:56 - [MESSAGE][PASSED] - Object: 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/div_Sign In' is clicked on
+
+2018-07-09 15:21:56 - [TEST_STEP][PASSED] - waitForElementPresent: Object 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India (1)/span_login' is present
+
+2018-07-09 15:21:56 - [MESSAGE][PASSED] - Object 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India (1)/span_login' is present
+
+2018-07-09 15:21:56 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India (1)/span_login' is present
+
+2018-07-09 15:21:56 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-07-09 15:21:56 - [MESSAGE][PASSED] - Object 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India (1)/span_login' is present
+
+2018-07-09 15:21:56 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India (1)/span_login' is clicked on
+
+2018-07-09 15:21:57 - [MESSAGE][PASSED] - Object: 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India (1)/span_login' is clicked on
+
+2018-07-09 15:21:57 - [TEST_STEP][PASSED] - waitForElementPresent: Object 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India (1)/input_username' is present
+
+2018-07-09 15:21:57 - [MESSAGE][PASSED] - Object 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India (1)/input_username' is present
+
+2018-07-09 15:21:57 - [TEST_STEP][PASSED] - setText: Text '9654421103' is set on object 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/Page_Online Shopping Site in India/input_username'
+
+2018-07-09 15:21:57 - [MESSAGE][PASSED] - Text '9654421103' is set on object 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/Page_Online Shopping Site in India/input_username'
+
+2018-07-09 15:21:57 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India/button_continue' is clicked on
+
+2018-07-09 15:21:58 - [MESSAGE][PASSED] - Object: 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India/button_continue' is clicked on
+
+2018-07-09 15:21:58 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/New Folder/Page_Online Shopping Site in India/button_Login Without Password' is clicked on
+
+2018-07-09 15:21:58 - [MESSAGE][PASSED] - Object: 'Object Repository/New Folder/Page_Online Shopping Site in India/button_Login Without Password' is clicked on
+
+2018-07-09 15:21:58 - [TEST_STEP][NOT_RUN] - closeBrowser: NOT_RUN: closeBrowser
+
+2018-07-09 15:21:58 - [MESSAGE][NOT_RUN] - NOT_RUN: closeBrowser]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Snapdeal Web Page" classname="Test Cases/Snapdeal Web Page" status="PASSED">
+         <system-out><![CDATA[2018-07-09 15:21:58 - [TEST_CASE][PASSED] - Test Cases/Snapdeal Web Page: Test Cases/Snapdeal Web Page
+
+2018-07-09 15:21:58 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-07-09 15:21:58 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2018-07-09 15:22:03 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-07-09 15:22:03 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://www.snapdeal.com/' successfully
+
+2018-07-09 15:22:06 - [MESSAGE][PASSED] - Navigate to 'https://www.snapdeal.com/' successfully
+
+2018-07-09 15:22:06 - [TEST_STEP][PASSED] - waitForElementPresent: Object 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/div_Sign In' is present
+
+2018-07-09 15:22:07 - [MESSAGE][PASSED] - Object 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/div_Sign In' is present
+
+2018-07-09 15:22:07 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/div_Sign In' is present
+
+2018-07-09 15:22:07 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-07-09 15:22:07 - [MESSAGE][PASSED] - Object 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/div_Sign In' is present
+
+2018-07-09 15:22:07 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/div_Sign In' is clicked on
+
+2018-07-09 15:22:08 - [MESSAGE][PASSED] - Object: 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/div_Sign In' is clicked on
+
+2018-07-09 15:22:08 - [TEST_STEP][PASSED] - waitForElementPresent: Object 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India (1)/span_login' is present
+
+2018-07-09 15:22:08 - [MESSAGE][PASSED] - Object 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India (1)/span_login' is present
+
+2018-07-09 15:22:08 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India (1)/span_login' is present
+
+2018-07-09 15:22:08 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-07-09 15:22:08 - [MESSAGE][PASSED] - Object 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India (1)/span_login' is present
+
+2018-07-09 15:22:08 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India (1)/span_login' is clicked on
+
+2018-07-09 15:22:08 - [MESSAGE][PASSED] - Object: 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India (1)/span_login' is clicked on
+
+2018-07-09 15:22:08 - [TEST_STEP][PASSED] - waitForElementPresent: Object 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India (1)/input_username' is present
+
+2018-07-09 15:22:09 - [MESSAGE][PASSED] - Object 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India (1)/input_username' is present
+
+2018-07-09 15:22:09 - [TEST_STEP][PASSED] - setText: Text '9958571972' is set on object 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/Page_Online Shopping Site in India/input_username'
+
+2018-07-09 15:22:09 - [MESSAGE][PASSED] - Text '9958571972' is set on object 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/Page_Online Shopping Site in India/input_username'
+
+2018-07-09 15:22:09 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India/button_continue' is clicked on
+
+2018-07-09 15:22:09 - [MESSAGE][PASSED] - Object: 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India/button_continue' is clicked on
+
+2018-07-09 15:22:09 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/New Folder/Page_Online Shopping Site in India/button_Login Without Password' is clicked on
+
+2018-07-09 15:22:09 - [MESSAGE][PASSED] - Object: 'Object Repository/New Folder/Page_Online Shopping Site in India/button_Login Without Password' is clicked on
+
+2018-07-09 15:22:10 - [TEST_STEP][NOT_RUN] - closeBrowser: NOT_RUN: closeBrowser
+
+2018-07-09 15:22:10 - [MESSAGE][NOT_RUN] - NOT_RUN: closeBrowser]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-07-09 15:21:45 - [TEST_SUITE][PASSED] - Snapdeal Web Page: Test Cases/Snapdeal Web Page]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

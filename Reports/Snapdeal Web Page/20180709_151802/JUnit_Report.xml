@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Snapdeal Web Page" time="14" tests="0" failures="1" errors="0">
+   <testsuite name="Snapdeal Web Page" tests="0" failures="1" errors="0" time="14" timestamp="2018-07-09 15:18:03" hostname="kartik.sehgal.in - L-15S7152.jasperindia.local" id="Test Suites/Snapdeal Web Page">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\kartik.sehgal.in\\Katalon Studio\\SD\\Reports\\Snapdeal Web Page\\20180709_151802"/>
+         <property name="logFiles" value="C:\\Users\\kartik.sehgal.in\\Katalon Studio\\SD\\Reports\\Snapdeal Web Page\\20180709_151802\\execution0.log"/>
+         <property name="attachments" value="C:\\Users\\kartik.sehgal.in\\Katalon Studio\\SD\\Reports\\Snapdeal Web Page\\20180709_151802\\1531129698200.png"/>
+         <property name="hostName" value="kartik.sehgal.in - L-15S7152.jasperindia.local"/>
+         <property name="os" value="Windows 7 64bit"/>
+         <property name="katalonVersion" value="5.4.2.1"/>
+         <property name="browser" value="Firefox 62.0"/>
+         <property name="hostAddress" value="10.20.86.19"/>
+         <property name="sessionId" value="9115b084-cb20-4c8c-8b34-e9ef82239ba2"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 7"/>
+      </properties>
+      <testcase name="Test Cases/Snapdeal Web Page" classname="Test Cases/Snapdeal Web Page" status="FAILED">
+         <failure type="FAILED" message="Unable to click on object 'Object Repository/New Folder/Page_Online Shopping Site in India/button_Login Without Password' (Root cause: org.openqa.selenium.ElementNotInteractableException: Element &lt;button id=&quot;sendOtpUC&quot; class=&quot;continueBtn btn col-xs-24 btn-large btn-line-skyblue marT20&quot; type=&quot;button&quot;> could not be scrolled into view
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'L-15S7152', ip: '10.20.86.19', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.core.webui.driver.firefox.CGeckoDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 62.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 7560, moz:profile: C:\Users\kartik.sehgal.in\A..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 6.1, proxy: Proxy(direct), rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 9115b084-cb20-4c8c-8b34-e9ef82239ba2)"/>
+         <system-out><![CDATA[2018-07-09 15:18:04 - [TEST_CASE][FAILED] - Test Cases/Snapdeal Web Page: Test Cases/Snapdeal Web Page FAILED because (of) Unable to click on object 'Object Repository/New Folder/Page_Online Shopping Site in India/button_Login Without Password' (Root cause: org.openqa.selenium.ElementNotInteractableException: Element <button id="sendOtpUC" class="continueBtn btn col-xs-24 btn-large btn-line-skyblue marT20" type="button"> could not be scrolled into view
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'L-15S7152', ip: '10.20.86.19', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.core.webui.driver.firefox.CGeckoDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 62.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 7560, moz:profile: C:\Users\kartik.sehgal.in\A..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 6.1, proxy: Proxy(direct), rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 9115b084-cb20-4c8c-8b34-e9ef82239ba2)
+
+2018-07-09 15:18:04 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-07-09 15:18:11 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-07-09 15:18:11 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://www.snapdeal.com/' successfully
+
+2018-07-09 15:18:14 - [MESSAGE][PASSED] - Navigate to 'https://www.snapdeal.com/' successfully
+
+2018-07-09 15:18:14 - [TEST_STEP][PASSED] - waitForElementPresent: Object 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/div_Sign In' is present
+
+2018-07-09 15:18:14 - [MESSAGE][PASSED] - Object 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/div_Sign In' is present
+
+2018-07-09 15:18:14 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/div_Sign In' is present
+
+2018-07-09 15:18:14 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-07-09 15:18:15 - [MESSAGE][PASSED] - Object 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/div_Sign In' is present
+
+2018-07-09 15:18:15 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/div_Sign In' is clicked on
+
+2018-07-09 15:18:16 - [MESSAGE][PASSED] - Object: 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/div_Sign In' is clicked on
+
+2018-07-09 15:18:16 - [TEST_STEP][PASSED] - waitForElementPresent: Object 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India (1)/span_login' is present
+
+2018-07-09 15:18:16 - [MESSAGE][PASSED] - Object 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India (1)/span_login' is present
+
+2018-07-09 15:18:16 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India (1)/span_login' is present
+
+2018-07-09 15:18:16 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-07-09 15:18:16 - [MESSAGE][PASSED] - Object 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India (1)/span_login' is present
+
+2018-07-09 15:18:16 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India (1)/span_login' is clicked on
+
+2018-07-09 15:18:17 - [MESSAGE][PASSED] - Object: 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India (1)/span_login' is clicked on
+
+2018-07-09 15:18:17 - [TEST_STEP][PASSED] - setText: Text '9999999999' is set on object 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/Page_Online Shopping Site in India/input_username'
+
+2018-07-09 15:18:17 - [MESSAGE][PASSED] - Text '9999999999' is set on object 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India/Page_Online Shopping Site in India/Page_Online Shopping Site in India/input_username'
+
+2018-07-09 15:18:17 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India/button_continue' is clicked on
+
+2018-07-09 15:18:18 - [MESSAGE][PASSED] - Object: 'Object Repository/SD_Login_OR/Page_Online Shopping Site in India/button_continue' is clicked on
+
+2018-07-09 15:18:18 - [TEST_STEP][FAILED] - click: Unable to click on object 'Object Repository/New Folder/Page_Online Shopping Site in India/button_Login Without Password' (Root cause: org.openqa.selenium.ElementNotInteractableException: Element <button id="sendOtpUC" class="continueBtn btn col-xs-24 btn-large btn-line-skyblue marT20" type="button"> could not be scrolled into view
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'L-15S7152', ip: '10.20.86.19', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.core.webui.driver.firefox.CGeckoDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 62.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 7560, moz:profile: C:\Users\kartik.sehgal.in\A..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 6.1, proxy: Proxy(direct), rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 9115b084-cb20-4c8c-8b34-e9ef82239ba2)
+
+2018-07-09 15:18:18 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/New Folder/Page_Online Shopping Site in India/button_Login Without Password' (Root cause: org.openqa.selenium.ElementNotInteractableException: Element <button id="sendOtpUC" class="continueBtn btn col-xs-24 btn-large btn-line-skyblue marT20" type="button"> could not be scrolled into view
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'L-15S7152', ip: '10.20.86.19', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.core.webui.driver.firefox.CGeckoDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 62.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 7560, moz:profile: C:\Users\kartik.sehgal.in\A..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 6.1, proxy: Proxy(direct), rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 9115b084-cb20-4c8c-8b34-e9ef82239ba2)
+[[ATTACHMENT|C:\\Users\\kartik.sehgal.in\\Katalon Studio\\SD\\Reports\\Snapdeal Web Page\\20180709_151802\\1531129698200.png]]]]></system-out>
+         <system-err><![CDATA[2018-07-09 15:18:04 - [TEST_CASE][FAILED] - Test Cases/Snapdeal Web Page: Test Cases/Snapdeal Web Page FAILED because (of) Unable to click on object 'Object Repository/New Folder/Page_Online Shopping Site in India/button_Login Without Password' (Root cause: org.openqa.selenium.ElementNotInteractableException: Element <button id="sendOtpUC" class="continueBtn btn col-xs-24 btn-large btn-line-skyblue marT20" type="button"> could not be scrolled into view
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'L-15S7152', ip: '10.20.86.19', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.core.webui.driver.firefox.CGeckoDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 62.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 7560, moz:profile: C:\Users\kartik.sehgal.in\A..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 6.1, proxy: Proxy(direct), rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 9115b084-cb20-4c8c-8b34-e9ef82239ba2)]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-07-09 15:18:03 - [TEST_SUITE][FAILED] - Snapdeal Web Page: Test Cases/Snapdeal Web Page FAILED because (of) Unable to click on object 'Object Repository/New Folder/Page_Online Shopping Site in India/button_Login Without Password' (Root cause: org.openqa.selenium.ElementNotInteractableException: Element <button id="sendOtpUC" class="continueBtn btn col-xs-24 btn-large btn-line-skyblue marT20" type="button"> could not be scrolled into view
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'L-15S7152', ip: '10.20.86.19', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.core.webui.driver.firefox.CGeckoDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 62.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 7560, moz:profile: C:\Users\kartik.sehgal.in\A..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 6.1, proxy: Proxy(direct), rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 9115b084-cb20-4c8c-8b34-e9ef82239ba2)]]></system-out>
+      <system-err><![CDATA[2018-07-09 15:18:03 - [TEST_SUITE][FAILED] - Snapdeal Web Page: Test Cases/Snapdeal Web Page FAILED because (of) Unable to click on object 'Object Repository/New Folder/Page_Online Shopping Site in India/button_Login Without Password' (Root cause: org.openqa.selenium.ElementNotInteractableException: Element <button id="sendOtpUC" class="continueBtn btn col-xs-24 btn-large btn-line-skyblue marT20" type="button"> could not be scrolled into view
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'L-15S7152', ip: '10.20.86.19', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.core.webui.driver.firefox.CGeckoDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 62.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 7560, moz:profile: C:\Users\kartik.sehgal.in\A..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 6.1, proxy: Proxy(direct), rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 9115b084-cb20-4c8c-8b34-e9ef82239ba2)]]></system-err>
+   </testsuite>
+</testsuites>

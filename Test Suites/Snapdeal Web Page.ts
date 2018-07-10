@@ -4,7 +4,7 @@
    <name>Snapdeal Web Page</name>
    <tag></tag>
    <isRerun>false</isRerun>
-   <lastRun>2018-07-09T11:36:14</lastRun>
+   <lastRun>2018-07-10T11:27:40</lastRun>
    <mailRecipient></mailRecipient>
    <numberOfRerun>0</numberOfRerun>
    <pageLoadTimeout>30</pageLoadTimeout>
@@ -26,9 +26,9 @@
          <testDataId>Data Files/SD Login Data</testDataId>
       </testDataLink>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>37008d9a-0a97-4dc9-a52c-49659e2bf117</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
          <variableId>b59d60fd-a1e8-43b3-af14-70b57f6e9d11</variableId>
       </variableLink>
    </testCaseLink>

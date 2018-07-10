@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="SD Banner" time="17" tests="0" failures="1" errors="0">
+   <testsuite name="SD Banner" tests="0" failures="1" errors="0" time="17" timestamp="2018-07-09 17:43:45" hostname="L-15S7152$ - L-15S7152.jasperindia.local" id="Test Suites/SD Banner">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\kartik.sehgal.in\\Katalon Studio\\SD\\Reports\\SD Banner\\20180709_174343"/>
+         <property name="logFiles" value="C:\\Users\\kartik.sehgal.in\\Katalon Studio\\SD\\Reports\\SD Banner\\20180709_174343\\execution0.log"/>
+         <property name="attachments" value="C:\\Users\\kartik.sehgal.in\\Katalon Studio\\SD\\Reports\\SD Banner\\20180709_174343\\1531138442250.png"/>
+         <property name="hostName" value="L-15S7152$ - L-15S7152.jasperindia.local"/>
+         <property name="os" value="Windows 7 64bit"/>
+         <property name="katalonVersion" value="5.4.2.1"/>
+         <property name="browser" value="Chrome 67.0.3396.99"/>
+         <property name="hostAddress" value="10.20.86.19"/>
+         <property name="sessionId" value="6e9fc67f2df072a8f0dc4f440b1749ea"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 7"/>
+      </properties>
+      <testcase name="Test Cases/SD Banner" classname="Test Cases/SD Banner" status="FAILED">
+         <failure type="FAILED" message="Unable to click on object 'Object Repository/SD Banner/Page_Online Shopping Site in India/div_white-overlay' (Root cause: org.openqa.selenium.ElementNotVisibleException: element not visible
+  (Session info: chrome=67.0.3396.99)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'L-15S7152', ip: '10.20.86.19', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.35.528161 (5b82f2d2aae0ca..., userDataDir: C:\Windows\TEMP\scoped_dir1...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 67.0.3396.99, webStorageEnabled: true}
+Session ID: 6e9fc67f2df072a8f0dc4f440b1749ea)"/>
+         <system-out><![CDATA[2018-07-09 17:43:45 - [TEST_CASE][FAILED] - Test Cases/SD Banner: Test Cases/SD Banner FAILED because (of) Unable to click on object 'Object Repository/SD Banner/Page_Online Shopping Site in India/div_white-overlay' (Root cause: org.openqa.selenium.ElementNotVisibleException: element not visible
+  (Session info: chrome=67.0.3396.99)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'L-15S7152', ip: '10.20.86.19', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.35.528161 (5b82f2d2aae0ca..., userDataDir: C:\Windows\TEMP\scoped_dir1...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 67.0.3396.99, webStorageEnabled: true}
+Session ID: 6e9fc67f2df072a8f0dc4f440b1749ea)
+
+2018-07-09 17:43:46 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-07-09 17:43:49 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-07-09 17:43:49 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://www.snapdeal.com/' successfully
+
+2018-07-09 17:43:52 - [MESSAGE][PASSED] - Navigate to 'https://www.snapdeal.com/' successfully
+
+2018-07-09 17:43:52 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/SD Banner/Page_Online Shopping Site in India/div_Dhamaka Deals' is clicked on
+
+2018-07-09 17:43:52 - [MESSAGE][PASSED] - Object: 'Object Repository/SD Banner/Page_Online Shopping Site in India/div_Dhamaka Deals' is clicked on
+
+2018-07-09 17:43:52 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/SD Banner/Page_Online Shopping Site in India/div_white-overlay' is clicked on
+
+2018-07-09 17:43:55 - [MESSAGE][PASSED] - Object: 'Object Repository/SD Banner/Page_Online Shopping Site in India/div_white-overlay' is clicked on
+
+2018-07-09 17:43:55 - [TEST_STEP][PASSED] - back: Navigate back successfully
+
+2018-07-09 17:43:56 - [MESSAGE][PASSED] - Navigate back successfully
+
+2018-07-09 17:43:56 - [TEST_STEP][PASSED] - waitForPageLoad: Wait for page load successfully
+
+2018-07-09 17:43:57 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-07-09 17:43:57 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/SD Banner/Page_Online Shopping Site in India/div_Intex' is clicked on
+
+2018-07-09 17:43:57 - [MESSAGE][PASSED] - Object: 'Object Repository/SD Banner/Page_Online Shopping Site in India/div_Intex' is clicked on
+
+2018-07-09 17:43:57 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/SD Banner/Page_Online Shopping Site in India/div_white-overlay' is clicked on
+
+2018-07-09 17:44:00 - [MESSAGE][PASSED] - Object: 'Object Repository/SD Banner/Page_Online Shopping Site in India/div_white-overlay' is clicked on
+
+2018-07-09 17:44:00 - [TEST_STEP][PASSED] - back: Navigate back successfully
+
+2018-07-09 17:44:01 - [MESSAGE][PASSED] - Navigate back successfully
+
+2018-07-09 17:44:01 - [TEST_STEP][PASSED] - waitForPageLoad: Wait for page load successfully
+
+2018-07-09 17:44:01 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-07-09 17:44:01 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/SD Banner/Page_Online Shopping Site in India/div_FIFA' is clicked on
+
+2018-07-09 17:44:02 - [MESSAGE][PASSED] - Object: 'Object Repository/SD Banner/Page_Online Shopping Site in India/div_FIFA' is clicked on
+
+2018-07-09 17:44:02 - [TEST_STEP][FAILED] - click: Unable to click on object 'Object Repository/SD Banner/Page_Online Shopping Site in India/div_white-overlay' (Root cause: org.openqa.selenium.ElementNotVisibleException: element not visible
+  (Session info: chrome=67.0.3396.99)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'L-15S7152', ip: '10.20.86.19', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.35.528161 (5b82f2d2aae0ca..., userDataDir: C:\Windows\TEMP\scoped_dir1...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 67.0.3396.99, webStorageEnabled: true}
+Session ID: 6e9fc67f2df072a8f0dc4f440b1749ea)
+
+2018-07-09 17:44:02 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/SD Banner/Page_Online Shopping Site in India/div_white-overlay' (Root cause: org.openqa.selenium.ElementNotVisibleException: element not visible
+  (Session info: chrome=67.0.3396.99)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'L-15S7152', ip: '10.20.86.19', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.35.528161 (5b82f2d2aae0ca..., userDataDir: C:\Windows\TEMP\scoped_dir1...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 67.0.3396.99, webStorageEnabled: true}
+Session ID: 6e9fc67f2df072a8f0dc4f440b1749ea)
+[[ATTACHMENT|C:\\Users\\kartik.sehgal.in\\Katalon Studio\\SD\\Reports\\SD Banner\\20180709_174343\\1531138442250.png]]]]></system-out>
+         <system-err><![CDATA[2018-07-09 17:43:45 - [TEST_CASE][FAILED] - Test Cases/SD Banner: Test Cases/SD Banner FAILED because (of) Unable to click on object 'Object Repository/SD Banner/Page_Online Shopping Site in India/div_white-overlay' (Root cause: org.openqa.selenium.ElementNotVisibleException: element not visible
+  (Session info: chrome=67.0.3396.99)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'L-15S7152', ip: '10.20.86.19', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.35.528161 (5b82f2d2aae0ca..., userDataDir: C:\Windows\TEMP\scoped_dir1...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 67.0.3396.99, webStorageEnabled: true}
+Session ID: 6e9fc67f2df072a8f0dc4f440b1749ea)]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-07-09 17:43:45 - [TEST_SUITE][FAILED] - SD Banner: Test Cases/SD Banner FAILED because (of) Unable to click on object 'Object Repository/SD Banner/Page_Online Shopping Site in India/div_white-overlay' (Root cause: org.openqa.selenium.ElementNotVisibleException: element not visible
+  (Session info: chrome=67.0.3396.99)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'L-15S7152', ip: '10.20.86.19', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.35.528161 (5b82f2d2aae0ca..., userDataDir: C:\Windows\TEMP\scoped_dir1...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 67.0.3396.99, webStorageEnabled: true}
+Session ID: 6e9fc67f2df072a8f0dc4f440b1749ea)]]></system-out>
+      <system-err><![CDATA[2018-07-09 17:43:45 - [TEST_SUITE][FAILED] - SD Banner: Test Cases/SD Banner FAILED because (of) Unable to click on object 'Object Repository/SD Banner/Page_Online Shopping Site in India/div_white-overlay' (Root cause: org.openqa.selenium.ElementNotVisibleException: element not visible
+  (Session info: chrome=67.0.3396.99)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:07:36.161Z'
+System info: host: 'L-15S7152', ip: '10.20.86.19', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_102'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.35.528161 (5b82f2d2aae0ca..., userDataDir: C:\Windows\TEMP\scoped_dir1...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 67.0.3396.99, webStorageEnabled: true}
+Session ID: 6e9fc67f2df072a8f0dc4f440b1749ea)]]></system-err>
+   </testsuite>
+</testsuites>
